@@ -69,10 +69,10 @@ Puis, côté reverse proxy nginx (hors conteneur) :
 
 ```bash
 sudo cp deploy/reverse-proxy.example.conf /etc/nginx/sites-available/catalogue.conf
-# remplacer catalogue.example.org par le domaine retenu
+# domaine : capacity.ejpcotonou.com (DNS A/AAAA pointant vers le VPS)
 sudo ln -s /etc/nginx/sites-available/catalogue.conf /etc/nginx/sites-enabled/
 sudo nginx -t && sudo systemctl reload nginx
-sudo certbot --nginx -d catalogue.example.org
+sudo certbot --nginx -d capacity.ejpcotonou.com
 ```
 
 Pour mettre à jour : `git pull && docker compose up -d --build`. Le service worker récupère automatiquement la nouvelle version au chargement suivant.
