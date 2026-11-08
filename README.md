@@ -32,7 +32,7 @@ Première fois avec Playwright : `bunx playwright install chromium`.
 Pour lancer les tests de bout en bout contre un conteneur déjà démarré :
 
 ```bash
-E2E_BASE_URL=http://127.0.0.1:8080 bun run test:e2e
+E2E_BASE_URL=http://127.0.0.1:8081 bun run test:e2e
 ```
 
 ### Scripts utiles
@@ -59,30 +59,28 @@ L'état enregistré porte un numéro de version (`v: 1`). Pour faire évoluer so
 
 L'image se construit en deux étapes : build avec Bun, puis service par `nginx:alpine`. Le nginx du conteneur gère le cache (un an pour `/assets/*`, revalidation pour `index.html` et le service worker), le fallback SPA, la compression et les en-têtes de sécurité (CSP stricte comprise). Le TLS reste sur le reverse proxy du VPS.
 
-```bash
-# sur le VPS, dans le dossier du projet
-docker compose up -d --build        # écoute sur 127.0.0.1:8080
-curl -s http://127.0.0.1:8080/healthz   # → ok
-```
-
-Puis, côté reverse proxy nginx (hors conteneur) :
+Sur le VPS, le reverse proxy est lui-même un conteneur `nginx` (pile `/root/ejp-project`) qui sert tous les domaines. Le catalogue rejoint son réseau Docker externe `web`, et le proxy le joint par son nom de conteneur : `mon-catalogue-des-possibles:80`. Le port `127.0.0.1:8081` ne sert qu'aux vérifications locales (8080 est déjà pris par adminer ; changeable avec `CATALOGUE_PORT`).
 
 ```bash
-sudo cp deploy/reverse-proxy.example.conf /etc/nginx/sites-available/catalogue.conf
-# domaine : capacity.ejpcotonou.com (DNS A/AAAA pointant vers le VPS)
-sudo ln -s /etc/nginx/sites-available/catalogue.conf /etc/nginx/sites-enabled/
-sudo nginx -t && sudo systemctl reload nginx
-sudo certbot --nginx -d capacity.ejpcotonou.com
+# sur le VPS, dans /root/capacity-ejp
+docker compose up -d --build              # le réseau « web » doit exister
+curl -s http://127.0.0.1:8081/healthz     # → ok
 ```
 
-Pour mettre à jour : `git pull && docker compose up -d --build`. Le service worker récupère automatiquement la nouvelle version au chargement suivant.
+Le vhost est `/root/ejp-project/nginx/conf.d/capacity.ejpcotonou.com.conf`, dont `deploy/reverse-proxy.example.conf` est la copie. Pour une première installation, il faut procéder en deux temps : sans certificat, nginx refuse toute la configuration et tous les sites tombent.
 
-Sans Docker Compose :
+1. Déposer le fichier avec le seul bloc `listen 80` (challenge ACME et redirection), puis recharger :
+   `docker exec nginx nginx -t && docker exec nginx nginx -s reload`
+2. Obtenir le certificat :
+   ```bash
+   cd /root/ejp-project && docker compose run --rm certbot certonly --webroot \
+     -w /var/www/certbot -d capacity.ejpcotonou.com
+   ```
+3. Ajouter le bloc `listen 443`, puis tester et recharger nginx comme à l'étape 1.
 
-```bash
-docker build -t ejp/mon-catalogue-des-possibles .
-docker run -d --name catalogue --restart unless-stopped -p 127.0.0.1:8080:80 ejp/mon-catalogue-des-possibles
-```
+Le renouvellement est assuré par le cron hebdomadaire de `ejp-project` (`certbot renew` puis redémarrage de nginx).
+
+Pour mettre à jour : `cd /root/capacity-ejp && git pull && docker compose up -d --build`. Le service worker récupère automatiquement la nouvelle version au chargement suivant.
 
 ## Hors connexion
 

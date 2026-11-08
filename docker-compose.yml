@@ -4,5 +4,14 @@ services:
     image: ejp/mon-catalogue-des-possibles:latest
     container_name: mon-catalogue-des-possibles
     restart: unless-stopped
+    # Accessible uniquement depuis le VPS (8080 est déjà pris par adminer).
     ports:
-      - "127.0.0.1:8080:80"
+      - "127.0.0.1:${CATALOGUE_PORT:-8081}:80"
+    # « web » est le réseau du reverse proxy nginx (pile ejp-project) :
+    # il joint le catalogue par son nom de conteneur, mon-catalogue-des-possibles:80.
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
