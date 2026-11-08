@@ -1,0 +1,4548 @@
+{
+ "title": "Mon catalogue des possibles",
+ "subtitle": "Plus de 1000 capacités, compétences et qualités à découvrir, reconnaître et développer",
+ "intro": {
+  "why": [
+   "Nous avons tous et toutes plus de talents que nous ne le pensons. Souvent, ce qui nous vient naturellement nous paraît « normal », et nous oublions que c'est une vraie force.",
+   "Ce catalogue rassemble des centaines de choses que l'on peut savoir faire ou être. Personne ne les possède toutes, et tout le monde en possède déjà beaucoup. Elles ne sont pas figées : chaque capacité peut se développer avec le temps, l'entraînement et la confiance."
+  ],
+  "how": [
+   "Lis les listes à ton rythme, sans te presser, en prenant le temps de t'arrêter sur ce qui te parle.",
+   "Entoure en vert ce que tu sais déjà faire ou ce que tu es déjà.",
+   "Entoure en jaune ce que tu fais « à moitié » ou que tu aimerais améliorer.",
+   "Entoure en orange ce qui te donne envie d'essayer ou de découvrir.",
+   "Demande à une personne de confiance de te dire ce qu'elle voit en toi : tu seras sûrement surpris·e.",
+   "Choisis tes dix plus belles forces et complète la dernière page, « Mon bilan »."
+  ],
+  "keep": "Ceci n'est pas un test et il n'y a pas de mauvaise réponse. Ce n'est pas grave de ne pas reconnaître beaucoup de choses au début : le but est de découvrir tout ce qu'il est possible d'être et de faire."
+ },
+ "levels": [
+  {
+   "id": "acquis",
+   "label": "Je sais déjà",
+   "hint": "Ce que tu sais déjà faire ou ce que tu es déjà",
+   "color": "#3c9a5f"
+  },
+  {
+   "id": "ameliorer",
+   "label": "À améliorer",
+   "hint": "Ce que tu fais « à moitié » ou que tu aimerais améliorer",
+   "color": "#f2c230"
+  },
+  {
+   "id": "essayer",
+   "label": "Envie d'essayer",
+   "hint": "Ce qui te donne envie d'essayer ou de découvrir",
+   "color": "#f0892a"
+  }
+ ],
+ "bilan": [
+  "Mes 10 plus belles forces (capacités ou qualités)",
+  "Ce que les autres voient de bien en moi",
+  "Ce que j'ai envie de développer",
+  "Mon premier petit pas cette semaine",
+  "Une phrase pour me rappeler que je suis capable"
+ ],
+ "families": [
+  {
+   "id": "capacites-relationnelles",
+   "number": 1,
+   "title": "Capacités relationnelles",
+   "description": "Tout ce qui te permet d'entrer en lien avec les autres : écouter, comprendre, coopérer, aider, convaincre, rassembler.",
+   "color": {
+    "accent": "#2f7a55",
+    "tint": "#e2f0e8",
+    "soft": "#bfdccb"
+   },
+   "themes": [
+    {
+     "id": "communication-et-ecoute",
+     "title": "Communication et écoute",
+     "items": [
+      {
+       "id": 1,
+       "label": "Écouter sans interrompre"
+      },
+      {
+       "id": 2,
+       "label": "Reformuler ce que l'autre a dit"
+      },
+      {
+       "id": 3,
+       "label": "Poser des questions ouvertes"
+      },
+      {
+       "id": 4,
+       "label": "Demander de l'aide quand j'en ai besoin"
+      },
+      {
+       "id": 5,
+       "label": "Dire les choses clairement"
+      },
+      {
+       "id": 6,
+       "label": "Exprimer mes émotions avec des mots"
+      },
+      {
+       "id": 7,
+       "label": "Dire non poliment"
+      },
+      {
+       "id": 8,
+       "label": "Dire merci sincèrement"
+      },
+      {
+       "id": 9,
+       "label": "Faire des compliments authentiques"
+      },
+      {
+       "id": 10,
+       "label": "Recevoir un compliment avec simplicité"
+      },
+      {
+       "id": 11,
+       "label": "Accueillir une critique sans me décourager"
+      },
+      {
+       "id": 12,
+       "label": "Donner mon avis avec respect"
+      },
+      {
+       "id": 13,
+       "label": "Exprimer un désaccord calmement"
+      },
+      {
+       "id": 14,
+       "label": "M'excuser quand je me trompe"
+      },
+      {
+       "id": 15,
+       "label": "Pardonner"
+      },
+      {
+       "id": 16,
+       "label": "Regarder la personne qui me parle"
+      },
+      {
+       "id": 17,
+       "label": "Adapter mon langage à mon interlocuteur"
+      },
+      {
+       "id": 18,
+       "label": "Expliquer simplement une idée compliquée"
+      },
+      {
+       "id": 19,
+       "label": "Raconter une histoire captivante"
+      },
+      {
+       "id": 20,
+       "label": "Faire rire les autres"
+      },
+      {
+       "id": 21,
+       "label": "Encourager quelqu'un"
+      },
+      {
+       "id": 22,
+       "label": "Rassurer quelqu'un qui a peur"
+      },
+      {
+       "id": 23,
+       "label": "Saluer chaleureusement"
+      },
+      {
+       "id": 24,
+       "label": "Me présenter avec aisance"
+      },
+      {
+       "id": 25,
+       "label": "Engager la conversation"
+      },
+      {
+       "id": 26,
+       "label": "Entretenir une discussion"
+      },
+      {
+       "id": 27,
+       "label": "Terminer une conversation avec politesse"
+      },
+      {
+       "id": 28,
+       "label": "Comprendre le langage du corps"
+      },
+      {
+       "id": 29,
+       "label": "Respecter les silences"
+      },
+      {
+       "id": 30,
+       "label": "Parler d'une voix posée"
+      },
+      {
+       "id": 31,
+       "label": "Écrire un message clair et poli"
+      },
+      {
+       "id": 32,
+       "label": "Poser mes limites avec respect"
+      },
+      {
+       "id": 33,
+       "label": "Dire ce que je ressens sans blesser"
+      },
+      {
+       "id": 34,
+       "label": "Poser une question quand je ne comprends pas"
+      }
+     ]
+    },
+    {
+     "id": "empathie-et-bienveillance",
+     "title": "Empathie et bienveillance",
+     "items": [
+      {
+       "id": 35,
+       "label": "Me mettre à la place de l'autre"
+      },
+      {
+       "id": 36,
+       "label": "Percevoir les émotions des autres"
+      },
+      {
+       "id": 37,
+       "label": "Consoler un ami"
+      },
+      {
+       "id": 38,
+       "label": "Accueillir quelqu'un de nouveau"
+      },
+      {
+       "id": 39,
+       "label": "Remarquer quand quelqu'un va mal"
+      },
+      {
+       "id": 40,
+       "label": "Offrir mon écoute"
+      },
+      {
+       "id": 41,
+       "label": "Respecter les différences"
+      },
+      {
+       "id": 42,
+       "label": "Accepter les opinions différentes des miennes"
+      },
+      {
+       "id": 43,
+       "label": "Ne pas juger trop vite"
+      },
+      {
+       "id": 44,
+       "label": "Montrer de la gratitude"
+      },
+      {
+       "id": 45,
+       "label": "Partager ma joie avec les autres"
+      },
+      {
+       "id": 46,
+       "label": "Féliciter les réussites des autres"
+      },
+      {
+       "id": 47,
+       "label": "Être patient·e avec ceux qui apprennent lentement"
+      },
+      {
+       "id": 48,
+       "label": "Inclure ceux qui sont mis à l'écart"
+      },
+      {
+       "id": 49,
+       "label": "Défendre quelqu'un qui est moqué"
+      },
+      {
+       "id": 50,
+       "label": "Prendre soin des plus petits"
+      },
+      {
+       "id": 51,
+       "label": "Prendre soin des personnes âgées"
+      },
+      {
+       "id": 52,
+       "label": "Soutenir une personne en difficulté"
+      },
+      {
+       "id": 53,
+       "label": "Garder un secret confié"
+      },
+      {
+       "id": 54,
+       "label": "Faire confiance aux autres"
+      },
+      {
+       "id": 55,
+       "label": "Donner une seconde chance"
+      },
+      {
+       "id": 56,
+       "label": "Dire des paroles réconfortantes"
+      },
+      {
+       "id": 57,
+       "label": "Respecter l'intimité des autres"
+      },
+      {
+       "id": 58,
+       "label": "Remarquer ce qui compte pour l'autre"
+      },
+      {
+       "id": 59,
+       "label": "Partager ce que j'ai"
+      },
+      {
+       "id": 60,
+       "label": "Faire preuve de douceur"
+      },
+      {
+       "id": 61,
+       "label": "Respecter les croyances et les cultures de chacun"
+      },
+      {
+       "id": 62,
+       "label": "Apprécier la diversité"
+      },
+      {
+       "id": 63,
+       "label": "Offrir mon sourire"
+      },
+      {
+       "id": 64,
+       "label": "Pardonner les maladresses"
+      },
+      {
+       "id": 65,
+       "label": "Créer un climat de confiance"
+      },
+      {
+       "id": 66,
+       "label": "Faire preuve de compassion"
+      }
+     ]
+    },
+    {
+     "id": "collaboration-et-travail-d-equipe",
+     "title": "Collaboration et travail d'équipe",
+     "items": [
+      {
+       "id": 67,
+       "label": "Travailler en équipe"
+      },
+      {
+       "id": 68,
+       "label": "Partager les tâches équitablement"
+      },
+      {
+       "id": 69,
+       "label": "Tenir ma place dans un groupe"
+      },
+      {
+       "id": 70,
+       "label": "Respecter les règles du groupe"
+      },
+      {
+       "id": 71,
+       "label": "Faire confiance à mes coéquipiers"
+      },
+      {
+       "id": 72,
+       "label": "Valoriser les talents de chacun"
+      },
+      {
+       "id": 73,
+       "label": "Apporter mes idées au groupe"
+      },
+      {
+       "id": 74,
+       "label": "Écouter les idées des autres"
+      },
+      {
+       "id": 75,
+       "label": "Chercher un compromis"
+      },
+      {
+       "id": 76,
+       "label": "Prendre des décisions à plusieurs"
+      },
+      {
+       "id": 77,
+       "label": "Soutenir un collègue en difficulté"
+      },
+      {
+       "id": 78,
+       "label": "Demander de l'aide à l'équipe"
+      },
+      {
+       "id": 79,
+       "label": "Reconnaître l'effort des autres"
+      },
+      {
+       "id": 80,
+       "label": "Accepter de ne pas toujours avoir raison"
+      },
+      {
+       "id": 81,
+       "label": "Tenir mes engagements envers le groupe"
+      },
+      {
+       "id": 82,
+       "label": "Respecter les délais communs"
+      },
+      {
+       "id": 83,
+       "label": "Célébrer les réussites collectives"
+      },
+      {
+       "id": 84,
+       "label": "Cultiver l'esprit d'équipe"
+      },
+      {
+       "id": 85,
+       "label": "Jouer un rôle de soutien"
+      },
+      {
+       "id": 86,
+       "label": "Jouer un rôle de moteur"
+      },
+      {
+       "id": 87,
+       "label": "Accueillir un nouveau membre"
+      },
+      {
+       "id": 88,
+       "label": "Faire circuler l'information"
+      },
+      {
+       "id": 89,
+       "label": "Organiser une réunion"
+      },
+      {
+       "id": 90,
+       "label": "Animer un atelier de groupe"
+      },
+      {
+       "id": 91,
+       "label": "Partager mes connaissances"
+      },
+      {
+       "id": 92,
+       "label": "Apprendre des autres"
+      },
+      {
+       "id": 93,
+       "label": "Enseigner à un camarade"
+      },
+      {
+       "id": 94,
+       "label": "Mener un projet commun"
+      },
+      {
+       "id": 95,
+       "label": "Gérer les désaccords d'équipe"
+      },
+      {
+       "id": 96,
+       "label": "M'adapter à des personnalités différentes"
+      },
+      {
+       "id": 97,
+       "label": "Collaborer à distance"
+      },
+      {
+       "id": 98,
+       "label": "Remercier mon équipe"
+      }
+     ]
+    },
+    {
+     "id": "leadership-et-influence-positive",
+     "title": "Leadership et influence positive",
+     "items": [
+      {
+       "id": 99,
+       "label": "Donner l'exemple"
+      },
+      {
+       "id": 100,
+       "label": "Motiver un groupe"
+      },
+      {
+       "id": 101,
+       "label": "Fixer un objectif commun"
+      },
+      {
+       "id": 102,
+       "label": "Prendre des initiatives"
+      },
+      {
+       "id": 103,
+       "label": "Prendre la parole pour le groupe"
+      },
+      {
+       "id": 104,
+       "label": "Représenter les autres"
+      },
+      {
+       "id": 105,
+       "label": "Déléguer des tâches"
+      },
+      {
+       "id": 106,
+       "label": "Donner des consignes claires"
+      },
+      {
+       "id": 107,
+       "label": "Encourager chacun à progresser"
+      },
+      {
+       "id": 108,
+       "label": "Reconnaître mes erreurs de chef·fe"
+      },
+      {
+       "id": 109,
+       "label": "Inspirer confiance"
+      },
+      {
+       "id": 110,
+       "label": "Fédérer des personnes différentes"
+      },
+      {
+       "id": 111,
+       "label": "Prendre une décision difficile"
+      },
+      {
+       "id": 112,
+       "label": "Assumer mes responsabilités"
+      },
+      {
+       "id": 113,
+       "label": "Montrer la direction à suivre"
+      },
+      {
+       "id": 114,
+       "label": "Organiser un événement"
+      },
+      {
+       "id": 115,
+       "label": "Mobiliser des volontaires"
+      },
+      {
+       "id": 116,
+       "label": "Lancer un projet collectif"
+      },
+      {
+       "id": 117,
+       "label": "Négocier un accord"
+      },
+      {
+       "id": 118,
+       "label": "Convaincre avec des arguments"
+      },
+      {
+       "id": 119,
+       "label": "Mener une campagne de sensibilisation"
+      },
+      {
+       "id": 120,
+       "label": "Porter la voix d'une cause"
+      },
+      {
+       "id": 121,
+       "label": "Accompagner un plus jeune"
+      },
+      {
+       "id": 122,
+       "label": "Devenir un modèle positif"
+      },
+      {
+       "id": 123,
+       "label": "Féliciter publiquement"
+      },
+      {
+       "id": 124,
+       "label": "Rester calme sous pression"
+      },
+      {
+       "id": 125,
+       "label": "Guider un groupe en difficulté"
+      },
+      {
+       "id": 126,
+       "label": "Arbitrer un jeu ou un match"
+      },
+      {
+       "id": 127,
+       "label": "Parrainer un nouvel arrivant"
+      },
+      {
+       "id": 128,
+       "label": "Défendre une idée avec conviction"
+      },
+      {
+       "id": 129,
+       "label": "Écouter avant de décider"
+      },
+      {
+       "id": 130,
+       "label": "Passer le relais"
+      }
+     ]
+    },
+    {
+     "id": "gestion-des-conflits-et-diplomatie",
+     "title": "Gestion des conflits et diplomatie",
+     "items": [
+      {
+       "id": 131,
+       "label": "Désamorcer une dispute"
+      },
+      {
+       "id": 132,
+       "label": "Rester calme face à la colère"
+      },
+      {
+       "id": 133,
+       "label": "Trouver un terrain d'entente"
+      },
+      {
+       "id": 134,
+       "label": "Servir de médiateur·rice entre deux amis"
+      },
+      {
+       "id": 135,
+       "label": "Dire ce qui me dérange sans agresser"
+      },
+      {
+       "id": 136,
+       "label": "Écouter les deux versions d'un conflit"
+      },
+      {
+       "id": 137,
+       "label": "Reconnaître ma part de responsabilité"
+      },
+      {
+       "id": 138,
+       "label": "Proposer des solutions justes"
+      },
+      {
+       "id": 139,
+       "label": "Faire la paix après une dispute"
+      },
+      {
+       "id": 140,
+       "label": "Négocier avec respect"
+      },
+      {
+       "id": 141,
+       "label": "Refuser la violence"
+      },
+      {
+       "id": 142,
+       "label": "Résister à la pression du groupe"
+      },
+      {
+       "id": 143,
+       "label": "Dire non à une mauvaise influence"
+      },
+      {
+       "id": 144,
+       "label": "Défendre mes droits poliment"
+      },
+      {
+       "id": 145,
+       "label": "Réparer une relation abîmée"
+      },
+      {
+       "id": 146,
+       "label": "Prendre du recul avant de répondre"
+      },
+      {
+       "id": 147,
+       "label": "Reformuler pour apaiser"
+      },
+      {
+       "id": 148,
+       "label": "Éviter les mots blessants"
+      },
+      {
+       "id": 149,
+       "label": "Ne pas alimenter les rumeurs"
+      },
+      {
+       "id": 150,
+       "label": "Répondre à la moquerie avec calme"
+      },
+      {
+       "id": 151,
+       "label": "Poser une limite ferme et respectueuse"
+      },
+      {
+       "id": 152,
+       "label": "Demander l'aide d'un adulte face à un problème grave"
+      },
+      {
+       "id": 153,
+       "label": "Accepter un compromis"
+      },
+      {
+       "id": 154,
+       "label": "Rester courtois·e en cas de désaccord"
+      },
+      {
+       "id": 155,
+       "label": "Faire preuve de tact"
+      },
+      {
+       "id": 156,
+       "label": "Écouter la colère de l'autre"
+      },
+      {
+       "id": 157,
+       "label": "Chercher le dialogue"
+      },
+      {
+       "id": 158,
+       "label": "Garder mon sang-froid"
+      },
+      {
+       "id": 159,
+       "label": "Faire face à l'injustice"
+      },
+      {
+       "id": 160,
+       "label": "Gérer une critique injuste"
+      }
+     ]
+    },
+    {
+     "id": "sociabilite-et-reseau",
+     "title": "Sociabilité et réseau",
+     "items": [
+      {
+       "id": 161,
+       "label": "Me faire des amis"
+      },
+      {
+       "id": 162,
+       "label": "Entretenir une amitié"
+      },
+      {
+       "id": 163,
+       "label": "Rejoindre un groupe"
+      },
+      {
+       "id": 164,
+       "label": "Participer à la vie d'un club"
+      },
+      {
+       "id": 165,
+       "label": "Aller vers des personnes que je ne connais pas"
+      },
+      {
+       "id": 166,
+       "label": "Briser la glace"
+      },
+      {
+       "id": 167,
+       "label": "Tisser des liens"
+      },
+      {
+       "id": 168,
+       "label": "Créer un réseau de contacts"
+      },
+      {
+       "id": 169,
+       "label": "Demander conseil à un professionnel"
+      },
+      {
+       "id": 170,
+       "label": "Contacter une entreprise pour un stage"
+      },
+      {
+       "id": 171,
+       "label": "Me présenter à un employeur"
+      },
+      {
+       "id": 172,
+       "label": "Garder le contact avec d'anciens camarades"
+      },
+      {
+       "id": 173,
+       "label": "Remercier un mentor"
+      },
+      {
+       "id": 174,
+       "label": "Rencontrer des personnes d'autres générations"
+      },
+      {
+       "id": 175,
+       "label": "Échanger avec des personnes d'autres pays"
+      },
+      {
+       "id": 176,
+       "label": "Me sentir à l'aise en groupe"
+      },
+      {
+       "id": 177,
+       "label": "Participer à une fête avec joie"
+      },
+      {
+       "id": 178,
+       "label": "Inviter des amis"
+      },
+      {
+       "id": 179,
+       "label": "Accueillir des invités"
+      },
+      {
+       "id": 180,
+       "label": "Organiser une sortie"
+      },
+      {
+       "id": 181,
+       "label": "Dialoguer avec mes parents"
+      },
+      {
+       "id": 182,
+       "label": "Dialoguer avec mes enseignants"
+      },
+      {
+       "id": 183,
+       "label": "Respecter les adultes et mes pairs"
+      },
+      {
+       "id": 184,
+       "label": "Parler avec des personnes timides"
+      },
+      {
+       "id": 185,
+       "label": "M'intégrer dans un nouveau lieu"
+      },
+      {
+       "id": 186,
+       "label": "M'intégrer dans une nouvelle classe"
+      },
+      {
+       "id": 187,
+       "label": "Partager un repas"
+      },
+      {
+       "id": 188,
+       "label": "Jouer avec les autres"
+      },
+      {
+       "id": 189,
+       "label": "Participer aux activités de quartier"
+      },
+      {
+       "id": 190,
+       "label": "Prendre des nouvelles"
+      }
+     ]
+    },
+    {
+     "id": "aide-service-et-accompagnement",
+     "title": "Aide, service et accompagnement",
+     "items": [
+      {
+       "id": 191,
+       "label": "Rendre service"
+      },
+      {
+       "id": 192,
+       "label": "Aider un camarade à comprendre"
+      },
+      {
+       "id": 193,
+       "label": "Faire du soutien scolaire"
+      },
+      {
+       "id": 194,
+       "label": "Accompagner une personne âgée"
+      },
+      {
+       "id": 195,
+       "label": "Garder des enfants"
+      },
+      {
+       "id": 196,
+       "label": "Animer des jeux pour enfants"
+      },
+      {
+       "id": 197,
+       "label": "Orienter un visiteur perdu"
+      },
+      {
+       "id": 198,
+       "label": "Servir des clients avec le sourire"
+      },
+      {
+       "id": 199,
+       "label": "Accueillir le public"
+      },
+      {
+       "id": 200,
+       "label": "Répondre à des questions"
+      },
+      {
+       "id": 201,
+       "label": "Conseiller un client"
+      },
+      {
+       "id": 202,
+       "label": "Écouter une personne qui pleure"
+      },
+      {
+       "id": 203,
+       "label": "Soigner une petite blessure"
+      },
+      {
+       "id": 204,
+       "label": "Porter secours"
+      },
+      {
+       "id": 205,
+       "label": "Alerter les adultes en cas de danger"
+      },
+      {
+       "id": 206,
+       "label": "Aider à déménager"
+      },
+      {
+       "id": 207,
+       "label": "Préparer un repas pour d'autres"
+      },
+      {
+       "id": 208,
+       "label": "Faire du bénévolat"
+      },
+      {
+       "id": 209,
+       "label": "Participer à une collecte"
+      },
+      {
+       "id": 210,
+       "label": "Soutenir une association"
+      },
+      {
+       "id": 211,
+       "label": "Accompagner une personne en situation de handicap"
+      },
+      {
+       "id": 212,
+       "label": "Traduire pour quelqu'un"
+      },
+      {
+       "id": 213,
+       "label": "Expliquer un mode d'emploi"
+      },
+      {
+       "id": 214,
+       "label": "Former un nouveau venu"
+      },
+      {
+       "id": 215,
+       "label": "Devenir tuteur ou tutrice"
+      },
+      {
+       "id": 216,
+       "label": "Aider ma famille au quotidien"
+      },
+      {
+       "id": 217,
+       "label": "Prendre soin d'un animal"
+      },
+      {
+       "id": 218,
+       "label": "Visiter un voisin isolé"
+      },
+      {
+       "id": 219,
+       "label": "Offrir mon temps"
+      },
+      {
+       "id": 220,
+       "label": "Veiller sur un ami en difficulté"
+      }
+     ]
+    },
+    {
+     "id": "expression-orale-et-persuasion",
+     "title": "Expression orale et persuasion",
+     "items": [
+      {
+       "id": 221,
+       "label": "Parler en public"
+      },
+      {
+       "id": 222,
+       "label": "Présenter un exposé"
+      },
+      {
+       "id": 223,
+       "label": "Défendre un projet à l'oral"
+      },
+      {
+       "id": 224,
+       "label": "Débattre avec respect"
+      },
+      {
+       "id": 225,
+       "label": "Argumenter"
+      },
+      {
+       "id": 226,
+       "label": "Convaincre sans manipuler"
+      },
+      {
+       "id": 227,
+       "label": "Prendre la parole en classe"
+      },
+      {
+       "id": 228,
+       "label": "Lire à voix haute"
+      },
+      {
+       "id": 229,
+       "label": "Jouer la comédie"
+      },
+      {
+       "id": 230,
+       "label": "Chanter devant un public"
+      },
+      {
+       "id": 231,
+       "label": "Animer une émission"
+      },
+      {
+       "id": 232,
+       "label": "Conduire une interview"
+      },
+      {
+       "id": 233,
+       "label": "Raconter une anecdote"
+      },
+      {
+       "id": 234,
+       "label": "Faire un discours"
+      },
+      {
+       "id": 235,
+       "label": "Présenter quelqu'un"
+      },
+      {
+       "id": 236,
+       "label": "Négocier un prix"
+      },
+      {
+       "id": 237,
+       "label": "Vendre une idée"
+      },
+      {
+       "id": 238,
+       "label": "Vendre un produit"
+      },
+      {
+       "id": 239,
+       "label": "Pitcher un projet"
+      },
+      {
+       "id": 240,
+       "label": "Répondre aux questions du public"
+      },
+      {
+       "id": 241,
+       "label": "Intervenir en réunion"
+      },
+      {
+       "id": 242,
+       "label": "Poser une question en public"
+      },
+      {
+       "id": 243,
+       "label": "Improviser"
+      },
+      {
+       "id": 244,
+       "label": "Utiliser l'humour"
+      },
+      {
+       "id": 245,
+       "label": "Captiver l'attention"
+      },
+      {
+       "id": 246,
+       "label": "Gérer le trac"
+      },
+      {
+       "id": 247,
+       "label": "Utiliser des exemples parlants"
+      },
+      {
+       "id": 248,
+       "label": "Adapter mon discours à l'auditoire"
+      },
+      {
+       "id": 249,
+       "label": "Terminer sur un message fort"
+      },
+      {
+       "id": 250,
+       "label": "Remercier le public"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "capacites-intellectuelles",
+   "number": 2,
+   "title": "Capacités intellectuelles",
+   "description": "Tout ce que ton esprit sait faire : observer, comprendre, imaginer, apprendre, raisonner, choisir.",
+   "color": {
+    "accent": "#1d6a86",
+    "tint": "#e0edf2",
+    "soft": "#b9d5e1"
+   },
+   "themes": [
+    {
+     "id": "analyse-et-reflexion",
+     "title": "Analyse et réflexion",
+     "items": [
+      {
+       "id": 251,
+       "label": "Observer attentivement"
+      },
+      {
+       "id": 252,
+       "label": "Analyser une situation"
+      },
+      {
+       "id": 253,
+       "label": "Comparer deux options"
+      },
+      {
+       "id": 254,
+       "label": "Classer des informations"
+      },
+      {
+       "id": 255,
+       "label": "Identifier les causes d'un problème"
+      },
+      {
+       "id": 256,
+       "label": "Repérer les points communs"
+      },
+      {
+       "id": 257,
+       "label": "Repérer les différences"
+      },
+      {
+       "id": 258,
+       "label": "Faire des liens entre des idées"
+      },
+      {
+       "id": 259,
+       "label": "Résumer un texte"
+      },
+      {
+       "id": 260,
+       "label": "Synthétiser plusieurs sources"
+      },
+      {
+       "id": 261,
+       "label": "Distinguer l'essentiel de l'accessoire"
+      },
+      {
+       "id": 262,
+       "label": "Poser les bonnes questions"
+      },
+      {
+       "id": 263,
+       "label": "Formuler une hypothèse"
+      },
+      {
+       "id": 264,
+       "label": "Vérifier une information"
+      },
+      {
+       "id": 265,
+       "label": "Tirer des conclusions"
+      },
+      {
+       "id": 266,
+       "label": "Anticiper les conséquences"
+      },
+      {
+       "id": 267,
+       "label": "Évaluer les risques"
+      },
+      {
+       "id": 268,
+       "label": "Peser les avantages et les inconvénients"
+      },
+      {
+       "id": 269,
+       "label": "Prendre du recul"
+      },
+      {
+       "id": 270,
+       "label": "Voir une situation sous plusieurs angles"
+      },
+      {
+       "id": 271,
+       "label": "Repérer les contradictions"
+      },
+      {
+       "id": 272,
+       "label": "Faire preuve de rigueur"
+      },
+      {
+       "id": 273,
+       "label": "Penser de manière structurée"
+      },
+      {
+       "id": 274,
+       "label": "Raisonner pas à pas"
+      },
+      {
+       "id": 275,
+       "label": "Comprendre un schéma"
+      },
+      {
+       "id": 276,
+       "label": "Lire un graphique"
+      },
+      {
+       "id": 277,
+       "label": "Interpréter des données"
+      },
+      {
+       "id": 278,
+       "label": "Repérer une tendance"
+      },
+      {
+       "id": 279,
+       "label": "Faire un bilan"
+      },
+      {
+       "id": 280,
+       "label": "Réfléchir avant d'agir"
+      },
+      {
+       "id": 281,
+       "label": "Me remettre en question"
+      },
+      {
+       "id": 282,
+       "label": "Apprendre de mes erreurs"
+      }
+     ]
+    },
+    {
+     "id": "creativite-et-imagination",
+     "title": "Créativité et imagination",
+     "items": [
+      {
+       "id": 283,
+       "label": "Imaginer de nouvelles idées"
+      },
+      {
+       "id": 284,
+       "label": "Inventer une histoire"
+      },
+      {
+       "id": 285,
+       "label": "Dessiner ce que j'imagine"
+      },
+      {
+       "id": 286,
+       "label": "Trouver des solutions originales"
+      },
+      {
+       "id": 287,
+       "label": "Penser autrement"
+      },
+      {
+       "id": 288,
+       "label": "Détourner un objet de son usage"
+      },
+      {
+       "id": 289,
+       "label": "Associer des idées inattendues"
+      },
+      {
+       "id": 290,
+       "label": "Rêver grand"
+      },
+      {
+       "id": 291,
+       "label": "Écrire des poèmes"
+      },
+      {
+       "id": 292,
+       "label": "Composer une chanson"
+      },
+      {
+       "id": 293,
+       "label": "Créer un personnage"
+      },
+      {
+       "id": 294,
+       "label": "Imaginer un monde"
+      },
+      {
+       "id": 295,
+       "label": "Concevoir un jeu"
+      },
+      {
+       "id": 296,
+       "label": "Inventer un objet utile"
+      },
+      {
+       "id": 297,
+       "label": "Décorer un espace"
+      },
+      {
+       "id": 298,
+       "label": "Créer une œuvre collective"
+      },
+      {
+       "id": 299,
+       "label": "Faire un remue-méninges"
+      },
+      {
+       "id": 300,
+       "label": "Oser proposer une idée folle"
+      },
+      {
+       "id": 301,
+       "label": "Combiner des techniques"
+      },
+      {
+       "id": 302,
+       "label": "Transformer une contrainte en opportunité"
+      },
+      {
+       "id": 303,
+       "label": "Créer des costumes"
+      },
+      {
+       "id": 304,
+       "label": "Imaginer un scénario"
+      },
+      {
+       "id": 305,
+       "label": "Visualiser un projet avant de le réaliser"
+      },
+      {
+       "id": 306,
+       "label": "Dessiner un plan"
+      },
+      {
+       "id": 307,
+       "label": "Concevoir un logo"
+      },
+      {
+       "id": 308,
+       "label": "Inventer une recette"
+      },
+      {
+       "id": 309,
+       "label": "Trouver un nom original"
+      },
+      {
+       "id": 310,
+       "label": "Imaginer plusieurs fins à une histoire"
+      },
+      {
+       "id": 311,
+       "label": "Réinventer une habitude"
+      },
+      {
+       "id": 312,
+       "label": "Embellir mon quotidien"
+      },
+      {
+       "id": 313,
+       "label": "Créer un univers visuel"
+      },
+      {
+       "id": 314,
+       "label": "Innover"
+      }
+     ]
+    },
+    {
+     "id": "apprentissage-et-memoire",
+     "title": "Apprentissage et mémoire",
+     "items": [
+      {
+       "id": 315,
+       "label": "Apprendre de nouvelles choses"
+      },
+      {
+       "id": 316,
+       "label": "Retenir une leçon"
+      },
+      {
+       "id": 317,
+       "label": "Mémoriser un texte"
+      },
+      {
+       "id": 318,
+       "label": "Mémoriser des visages et des noms"
+      },
+      {
+       "id": 319,
+       "label": "Réviser efficacement"
+      },
+      {
+       "id": 320,
+       "label": "Prendre des notes claires"
+      },
+      {
+       "id": 321,
+       "label": "Faire des fiches"
+      },
+      {
+       "id": 322,
+       "label": "Créer une carte mentale"
+      },
+      {
+       "id": 323,
+       "label": "Poser des questions pour comprendre"
+      },
+      {
+       "id": 324,
+       "label": "Apprendre par la pratique"
+      },
+      {
+       "id": 325,
+       "label": "Apprendre en observant"
+      },
+      {
+       "id": 326,
+       "label": "Apprendre en enseignant"
+      },
+      {
+       "id": 327,
+       "label": "Apprendre une langue étrangère"
+      },
+      {
+       "id": 328,
+       "label": "Apprendre à jouer d'un instrument"
+      },
+      {
+       "id": 329,
+       "label": "Apprendre à partir de mes erreurs"
+      },
+      {
+       "id": 330,
+       "label": "Rechercher de l'information"
+      },
+      {
+       "id": 331,
+       "label": "Utiliser un dictionnaire"
+      },
+      {
+       "id": 332,
+       "label": "Utiliser une bibliothèque"
+      },
+      {
+       "id": 333,
+       "label": "Me concentrer longtemps"
+      },
+      {
+       "id": 334,
+       "label": "Rester attentif·ve en cours"
+      },
+      {
+       "id": 335,
+       "label": "Me remettre au travail après une pause"
+      },
+      {
+       "id": 336,
+       "label": "Persévérer dans l'apprentissage"
+      },
+      {
+       "id": 337,
+       "label": "Progresser petit à petit"
+      },
+      {
+       "id": 338,
+       "label": "Réutiliser un savoir dans une autre situation"
+      },
+      {
+       "id": 339,
+       "label": "Me fixer un objectif d'apprentissage"
+      },
+      {
+       "id": 340,
+       "label": "Suivre une formation"
+      },
+      {
+       "id": 341,
+       "label": "Me préparer à un examen"
+      },
+      {
+       "id": 342,
+       "label": "Passer un test sans paniquer"
+      },
+      {
+       "id": 343,
+       "label": "Comprendre un mode d'emploi"
+      },
+      {
+       "id": 344,
+       "label": "Suivre des consignes complexes"
+      },
+      {
+       "id": 345,
+       "label": "Apprendre en autonomie"
+      },
+      {
+       "id": 346,
+       "label": "Partager ce que j'ai appris"
+      }
+     ]
+    },
+    {
+     "id": "resolution-de-problemes",
+     "title": "Résolution de problèmes",
+     "items": [
+      {
+       "id": 347,
+       "label": "Résoudre un problème"
+      },
+      {
+       "id": 348,
+       "label": "Décomposer un problème en étapes"
+      },
+      {
+       "id": 349,
+       "label": "Chercher plusieurs solutions"
+      },
+      {
+       "id": 350,
+       "label": "Tester une solution"
+      },
+      {
+       "id": 351,
+       "label": "Corriger une erreur"
+      },
+      {
+       "id": 352,
+       "label": "Trouver la cause d'une panne"
+      },
+      {
+       "id": 353,
+       "label": "Faire preuve de débrouillardise"
+      },
+      {
+       "id": 354,
+       "label": "Improviser une solution"
+      },
+      {
+       "id": 355,
+       "label": "Demander l'avis d'un expert"
+      },
+      {
+       "id": 356,
+       "label": "M'adapter à un imprévu"
+      },
+      {
+       "id": 357,
+       "label": "Garder la tête froide"
+      },
+      {
+       "id": 358,
+       "label": "Prioriser les urgences"
+      },
+      {
+       "id": 359,
+       "label": "Résoudre une énigme"
+      },
+      {
+       "id": 360,
+       "label": "Résoudre un puzzle"
+      },
+      {
+       "id": 361,
+       "label": "Jouer aux échecs"
+      },
+      {
+       "id": 362,
+       "label": "Trouver une stratégie"
+      },
+      {
+       "id": 363,
+       "label": "Prévoir un plan B"
+      },
+      {
+       "id": 364,
+       "label": "Négocier une solution"
+      },
+      {
+       "id": 365,
+       "label": "Évaluer une solution"
+      },
+      {
+       "id": 366,
+       "label": "Persévérer face à la difficulté"
+      },
+      {
+       "id": 367,
+       "label": "Chercher une autre piste"
+      },
+      {
+       "id": 368,
+       "label": "Faire preuve de logique"
+      },
+      {
+       "id": 369,
+       "label": "Dépanner un appareil"
+      },
+      {
+       "id": 370,
+       "label": "Dépanner un camarade"
+      },
+      {
+       "id": 371,
+       "label": "Réparer un objet cassé"
+      },
+      {
+       "id": 372,
+       "label": "Lire un plan"
+      },
+      {
+       "id": 373,
+       "label": "Me repérer sur une carte"
+      },
+      {
+       "id": 374,
+       "label": "M'orienter dans l'espace"
+      },
+      {
+       "id": 375,
+       "label": "Trouver mon chemin"
+      },
+      {
+       "id": 376,
+       "label": "Deviner une règle cachée"
+      },
+      {
+       "id": 377,
+       "label": "Gérer l'incertitude"
+      },
+      {
+       "id": 378,
+       "label": "Transformer un échec en leçon"
+      }
+     ]
+    },
+    {
+     "id": "langage-et-expression-ecrite",
+     "title": "Langage et expression écrite",
+     "items": [
+      {
+       "id": 379,
+       "label": "Lire avec plaisir"
+      },
+      {
+       "id": 380,
+       "label": "Comprendre un texte difficile"
+      },
+      {
+       "id": 381,
+       "label": "Écrire une lettre"
+      },
+      {
+       "id": 382,
+       "label": "Écrire un courriel professionnel"
+      },
+      {
+       "id": 383,
+       "label": "Rédiger un compte rendu"
+      },
+      {
+       "id": 384,
+       "label": "Écrire un article"
+      },
+      {
+       "id": 385,
+       "label": "Tenir un journal"
+      },
+      {
+       "id": 386,
+       "label": "Écrire un récit"
+      },
+      {
+       "id": 387,
+       "label": "Rédiger un CV"
+      },
+      {
+       "id": 388,
+       "label": "Rédiger une lettre de motivation"
+      },
+      {
+       "id": 389,
+       "label": "Corriger l'orthographe"
+      },
+      {
+       "id": 390,
+       "label": "Enrichir mon vocabulaire"
+      },
+      {
+       "id": 391,
+       "label": "Choisir le mot juste"
+      },
+      {
+       "id": 392,
+       "label": "Reformuler avec mes propres mots"
+      },
+      {
+       "id": 393,
+       "label": "Rédiger un résumé"
+      },
+      {
+       "id": 394,
+       "label": "Traduire un texte"
+      },
+      {
+       "id": 395,
+       "label": "Parler deux langues"
+      },
+      {
+       "id": 396,
+       "label": "Parler trois langues"
+      },
+      {
+       "id": 397,
+       "label": "Comprendre un accent"
+      },
+      {
+       "id": 398,
+       "label": "Lire dans une langue étrangère"
+      },
+      {
+       "id": 399,
+       "label": "Communiquer par signes"
+      },
+      {
+       "id": 400,
+       "label": "Faire des rimes"
+      },
+      {
+       "id": 401,
+       "label": "Jouer avec les mots"
+      },
+      {
+       "id": 402,
+       "label": "Écrire un dialogue"
+      },
+      {
+       "id": 403,
+       "label": "Écrire un slogan"
+      },
+      {
+       "id": 404,
+       "label": "Raconter en images"
+      },
+      {
+       "id": 405,
+       "label": "Rédiger un mode d'emploi"
+      },
+      {
+       "id": 406,
+       "label": "Prendre des notes en réunion"
+      },
+      {
+       "id": 407,
+       "label": "Écrire un message de remerciement"
+      },
+      {
+       "id": 408,
+       "label": "Tenir un blog"
+      },
+      {
+       "id": 409,
+       "label": "Écrire un scénario"
+      },
+      {
+       "id": 410,
+       "label": "Publier un texte"
+      }
+     ]
+    },
+    {
+     "id": "logique-nombres-et-sciences",
+     "title": "Logique, nombres et sciences",
+     "items": [
+      {
+       "id": 411,
+       "label": "Calculer de tête"
+      },
+      {
+       "id": 412,
+       "label": "Résoudre une équation"
+      },
+      {
+       "id": 413,
+       "label": "Comprendre un pourcentage"
+      },
+      {
+       "id": 414,
+       "label": "Estimer une quantité"
+      },
+      {
+       "id": 415,
+       "label": "Mesurer avec précision"
+      },
+      {
+       "id": 416,
+       "label": "Lire un tableau de chiffres"
+      },
+      {
+       "id": 417,
+       "label": "Établir un budget"
+      },
+      {
+       "id": 418,
+       "label": "Comparer des prix"
+      },
+      {
+       "id": 419,
+       "label": "Comprendre une fraction"
+      },
+      {
+       "id": 420,
+       "label": "Reconnaître une forme géométrique"
+      },
+      {
+       "id": 421,
+       "label": "Raisonner en logique"
+      },
+      {
+       "id": 422,
+       "label": "Déduire une règle"
+      },
+      {
+       "id": 423,
+       "label": "Programmer une suite d'instructions"
+      },
+      {
+       "id": 424,
+       "label": "Comprendre un algorithme"
+      },
+      {
+       "id": 425,
+       "label": "Faire une expérience scientifique"
+      },
+      {
+       "id": 426,
+       "label": "Observer la nature"
+      },
+      {
+       "id": 427,
+       "label": "Comprendre le vivant"
+      },
+      {
+       "id": 428,
+       "label": "Comprendre l'énergie"
+      },
+      {
+       "id": 429,
+       "label": "Comprendre la matière"
+      },
+      {
+       "id": 430,
+       "label": "Comprendre le climat"
+      },
+      {
+       "id": 431,
+       "label": "Comprendre le fonctionnement d'une machine"
+      },
+      {
+       "id": 432,
+       "label": "Comprendre l'électricité"
+      },
+      {
+       "id": 433,
+       "label": "Comprendre un schéma électrique"
+      },
+      {
+       "id": 434,
+       "label": "Utiliser une unité de mesure"
+      },
+      {
+       "id": 435,
+       "label": "Convertir des unités"
+      },
+      {
+       "id": 436,
+       "label": "Compter l'argent"
+      },
+      {
+       "id": 437,
+       "label": "Faire des statistiques simples"
+      },
+      {
+       "id": 438,
+       "label": "Lire une carte"
+      },
+      {
+       "id": 439,
+       "label": "Utiliser une boussole"
+      },
+      {
+       "id": 440,
+       "label": "Comprendre le temps et le calendrier"
+      },
+      {
+       "id": 441,
+       "label": "Calculer un périmètre ou une surface"
+      },
+      {
+       "id": 442,
+       "label": "Raisonner en probabilités"
+      }
+     ]
+    },
+    {
+     "id": "curiosite-et-culture-generale",
+     "title": "Curiosité et culture générale",
+     "items": [
+      {
+       "id": 443,
+       "label": "Poser des questions sur le monde"
+      },
+      {
+       "id": 444,
+       "label": "Visiter un musée"
+      },
+      {
+       "id": 445,
+       "label": "Découvrir une autre culture"
+      },
+      {
+       "id": 446,
+       "label": "Apprendre l'histoire de mon pays"
+      },
+      {
+       "id": 447,
+       "label": "Comprendre l'actualité"
+      },
+      {
+       "id": 448,
+       "label": "Comprendre la géographie"
+      },
+      {
+       "id": 449,
+       "label": "Connaître les religions et les traditions"
+      },
+      {
+       "id": 450,
+       "label": "Découvrir la musique du monde"
+      },
+      {
+       "id": 451,
+       "label": "Lire des romans"
+      },
+      {
+       "id": 452,
+       "label": "Regarder des documentaires"
+      },
+      {
+       "id": 453,
+       "label": "Explorer des métiers"
+      },
+      {
+       "id": 454,
+       "label": "Découvrir une nouvelle passion"
+      },
+      {
+       "id": 455,
+       "label": "M'intéresser à l'astronomie"
+      },
+      {
+       "id": 456,
+       "label": "M'intéresser à la littérature"
+      },
+      {
+       "id": 457,
+       "label": "M'intéresser aux arts"
+      },
+      {
+       "id": 458,
+       "label": "M'intéresser à l'économie"
+      },
+      {
+       "id": 459,
+       "label": "M'intéresser à la vie citoyenne"
+      },
+      {
+       "id": 460,
+       "label": "Connaître les droits de l'enfant"
+      },
+      {
+       "id": 461,
+       "label": "Connaître mes droits et mes devoirs"
+      },
+      {
+       "id": 462,
+       "label": "Comprendre le fonctionnement de la société"
+      },
+      {
+       "id": 463,
+       "label": "Connaître l'histoire de ma famille"
+      },
+      {
+       "id": 464,
+       "label": "Connaître les contes de mon pays"
+      },
+      {
+       "id": 465,
+       "label": "Apprécier le patrimoine"
+      },
+      {
+       "id": 466,
+       "label": "Connaître des proverbes"
+      },
+      {
+       "id": 467,
+       "label": "Découvrir la gastronomie du monde"
+      },
+      {
+       "id": 468,
+       "label": "Voyager"
+      },
+      {
+       "id": 469,
+       "label": "Rencontrer des experts"
+      },
+      {
+       "id": 470,
+       "label": "Écouter des témoignages"
+      },
+      {
+       "id": 471,
+       "label": "Participer à des conférences"
+      },
+      {
+       "id": 472,
+       "label": "Suivre un cours en ligne"
+      },
+      {
+       "id": 473,
+       "label": "Partager mes découvertes"
+      },
+      {
+       "id": 474,
+       "label": "Me tenir informé·e"
+      }
+     ]
+    },
+    {
+     "id": "esprit-critique-et-prise-de-decision",
+     "title": "Esprit critique et prise de décision",
+     "items": [
+      {
+       "id": 475,
+       "label": "Distinguer un fait d'une opinion"
+      },
+      {
+       "id": 476,
+       "label": "Vérifier les sources d'une information"
+      },
+      {
+       "id": 477,
+       "label": "Repérer une fausse information"
+      },
+      {
+       "id": 478,
+       "label": "Repérer la publicité cachée"
+      },
+      {
+       "id": 479,
+       "label": "Me méfier des rumeurs"
+      },
+      {
+       "id": 480,
+       "label": "Remettre en question une idée reçue"
+      },
+      {
+       "id": 481,
+       "label": "Prendre une décision éclairée"
+      },
+      {
+       "id": 482,
+       "label": "Peser le pour et le contre"
+      },
+      {
+       "id": 483,
+       "label": "Faire un choix d'orientation"
+      },
+      {
+       "id": 484,
+       "label": "Choisir en accord avec mes valeurs"
+      },
+      {
+       "id": 485,
+       "label": "Décider seul·e"
+      },
+      {
+       "id": 486,
+       "label": "Décider en groupe"
+      },
+      {
+       "id": 487,
+       "label": "Assumer un choix"
+      },
+      {
+       "id": 488,
+       "label": "Changer d'avis quand il le faut"
+      },
+      {
+       "id": 489,
+       "label": "Résister aux modes"
+      },
+      {
+       "id": 490,
+       "label": "Résister à l'influence des réseaux sociaux"
+      },
+      {
+       "id": 491,
+       "label": "Évaluer un risque"
+      },
+      {
+       "id": 492,
+       "label": "Reconnaître mes préjugés"
+      },
+      {
+       "id": 493,
+       "label": "Débattre sans m'énerver"
+      },
+      {
+       "id": 494,
+       "label": "Écouter un point de vue opposé"
+      },
+      {
+       "id": 495,
+       "label": "Chercher la vérité"
+      },
+      {
+       "id": 496,
+       "label": "Poser une question délicate avec respect"
+      },
+      {
+       "id": 497,
+       "label": "Examiner une preuve"
+      },
+      {
+       "id": 498,
+       "label": "Penser par moi-même"
+      },
+      {
+       "id": 499,
+       "label": "Développer ma propre opinion"
+      },
+      {
+       "id": 500,
+       "label": "Choisir mes priorités"
+      },
+      {
+       "id": 501,
+       "label": "Reconnaître mes forces et mes limites"
+      },
+      {
+       "id": 502,
+       "label": "Savoir quand demander conseil"
+      },
+      {
+       "id": 503,
+       "label": "Peser les conséquences à long terme"
+      },
+      {
+       "id": 504,
+       "label": "Faire preuve de discernement"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "competences-techniques-et-organisationnelles",
+   "number": 3,
+   "title": "Compétences techniques et organisationnelles",
+   "description": "Tout ce que tu sais faire concrètement : organiser, construire, réparer, créer, gérer, utiliser des outils.",
+   "color": {
+    "accent": "#a8620f",
+    "tint": "#f5ead9",
+    "soft": "#e6cfa9"
+   },
+   "themes": [
+    {
+     "id": "organisation-et-gestion-du-temps",
+     "title": "Organisation et gestion du temps",
+     "items": [
+      {
+       "id": 505,
+       "label": "Planifier ma semaine"
+      },
+      {
+       "id": 506,
+       "label": "Tenir un agenda"
+      },
+      {
+       "id": 507,
+       "label": "Faire une liste de tâches"
+      },
+      {
+       "id": 508,
+       "label": "Prioriser mes tâches"
+      },
+      {
+       "id": 509,
+       "label": "Respecter les délais"
+      },
+      {
+       "id": 510,
+       "label": "Arriver à l'heure"
+      },
+      {
+       "id": 511,
+       "label": "Préparer mes affaires la veille"
+      },
+      {
+       "id": 512,
+       "label": "Ranger mon espace de travail"
+      },
+      {
+       "id": 513,
+       "label": "Classer mes documents"
+      },
+      {
+       "id": 514,
+       "label": "Gérer mon temps d'écran"
+      },
+      {
+       "id": 515,
+       "label": "Équilibrer travail et loisirs"
+      },
+      {
+       "id": 516,
+       "label": "Éviter de tout remettre à plus tard"
+      },
+      {
+       "id": 517,
+       "label": "Découper un gros travail en étapes"
+      },
+      {
+       "id": 518,
+       "label": "Fixer des objectifs réalistes"
+      },
+      {
+       "id": 519,
+       "label": "Suivre mes progrès"
+      },
+      {
+       "id": 520,
+       "label": "Gérer mon énergie"
+      },
+      {
+       "id": 521,
+       "label": "Préparer un examen à l'avance"
+      },
+      {
+       "id": 522,
+       "label": "Préparer une présentation"
+      },
+      {
+       "id": 523,
+       "label": "Optimiser mon trajet"
+      },
+      {
+       "id": 524,
+       "label": "Utiliser un calendrier"
+      },
+      {
+       "id": 525,
+       "label": "Utiliser un minuteur"
+      },
+      {
+       "id": 526,
+       "label": "Organiser mes révisions"
+      },
+      {
+       "id": 527,
+       "label": "Organiser mon sac"
+      },
+      {
+       "id": 528,
+       "label": "Organiser ma chambre"
+      },
+      {
+       "id": 529,
+       "label": "Gérer mes priorités personnelles"
+      },
+      {
+       "id": 530,
+       "label": "Dire non pour protéger mon temps"
+      },
+      {
+       "id": 531,
+       "label": "Faire des pauses utiles"
+      },
+      {
+       "id": 532,
+       "label": "Anticiper les imprévus"
+      },
+      {
+       "id": 533,
+       "label": "Évaluer le temps nécessaire"
+      },
+      {
+       "id": 534,
+       "label": "Faire un planning de groupe"
+      }
+     ]
+    },
+    {
+     "id": "gestion-de-projet-et-responsabilites",
+     "title": "Gestion de projet et responsabilités",
+     "items": [
+      {
+       "id": 535,
+       "label": "Définir un objectif"
+      },
+      {
+       "id": 536,
+       "label": "Établir un plan d'action"
+      },
+      {
+       "id": 537,
+       "label": "Répartir les rôles"
+      },
+      {
+       "id": 538,
+       "label": "Suivre l'avancement"
+      },
+      {
+       "id": 539,
+       "label": "Gérer un budget de projet"
+      },
+      {
+       "id": 540,
+       "label": "Rechercher des financements"
+      },
+      {
+       "id": 541,
+       "label": "Trouver des ressources"
+      },
+      {
+       "id": 542,
+       "label": "Coordonner plusieurs personnes"
+      },
+      {
+       "id": 543,
+       "label": "Organiser un événement scolaire"
+      },
+      {
+       "id": 544,
+       "label": "Organiser un tournoi"
+      },
+      {
+       "id": 545,
+       "label": "Organiser un spectacle"
+      },
+      {
+       "id": 546,
+       "label": "Organiser une exposition"
+      },
+      {
+       "id": 547,
+       "label": "Organiser un voyage"
+      },
+      {
+       "id": 548,
+       "label": "Rédiger un cahier des charges"
+      },
+      {
+       "id": 549,
+       "label": "Faire un rétroplanning"
+      },
+      {
+       "id": 550,
+       "label": "Tenir un tableau de bord"
+      },
+      {
+       "id": 551,
+       "label": "Évaluer un projet terminé"
+      },
+      {
+       "id": 552,
+       "label": "Présenter le bilan d'un projet"
+      },
+      {
+       "id": 553,
+       "label": "Gérer les imprévus d'un projet"
+      },
+      {
+       "id": 554,
+       "label": "Tenir une comptabilité simple"
+      },
+      {
+       "id": 555,
+       "label": "Gérer des stocks"
+      },
+      {
+       "id": 556,
+       "label": "Gérer un stand"
+      },
+      {
+       "id": 557,
+       "label": "Tenir une caisse"
+      },
+      {
+       "id": 558,
+       "label": "Tenir un registre"
+      },
+      {
+       "id": 559,
+       "label": "Rédiger un compte rendu de réunion"
+      },
+      {
+       "id": 560,
+       "label": "Convoquer une réunion"
+      },
+      {
+       "id": 561,
+       "label": "Gérer une liste d'invités"
+      },
+      {
+       "id": 562,
+       "label": "Suivre des inscriptions"
+      },
+      {
+       "id": 563,
+       "label": "Superviser une équipe"
+      },
+      {
+       "id": 564,
+       "label": "Contrôler la qualité d'un travail"
+      }
+     ]
+    },
+    {
+     "id": "numerique",
+     "title": "Numérique",
+     "items": [
+      {
+       "id": 565,
+       "label": "Utiliser un ordinateur"
+      },
+      {
+       "id": 566,
+       "label": "Utiliser un téléphone intelligent"
+      },
+      {
+       "id": 567,
+       "label": "Taper au clavier rapidement"
+      },
+      {
+       "id": 568,
+       "label": "Utiliser un traitement de texte"
+      },
+      {
+       "id": 569,
+       "label": "Utiliser un tableur"
+      },
+      {
+       "id": 570,
+       "label": "Créer un diaporama"
+      },
+      {
+       "id": 571,
+       "label": "Chercher efficacement sur Internet"
+      },
+      {
+       "id": 572,
+       "label": "Protéger mes mots de passe"
+      },
+      {
+       "id": 573,
+       "label": "Protéger mes données personnelles"
+      },
+      {
+       "id": 574,
+       "label": "Utiliser les réseaux sociaux de façon responsable"
+      },
+      {
+       "id": 575,
+       "label": "Envoyer un courriel"
+      },
+      {
+       "id": 576,
+       "label": "Joindre des fichiers"
+      },
+      {
+       "id": 577,
+       "label": "Utiliser la visioconférence"
+      },
+      {
+       "id": 578,
+       "label": "Retoucher une photo"
+      },
+      {
+       "id": 579,
+       "label": "Monter une vidéo"
+      },
+      {
+       "id": 580,
+       "label": "Enregistrer un podcast"
+      },
+      {
+       "id": 581,
+       "label": "Créer un site web"
+      },
+      {
+       "id": 582,
+       "label": "Coder en HTML"
+      },
+      {
+       "id": 583,
+       "label": "Programmer en Python"
+      },
+      {
+       "id": 584,
+       "label": "Programmer un jeu"
+      },
+      {
+       "id": 585,
+       "label": "Créer une application"
+      },
+      {
+       "id": 586,
+       "label": "Utiliser l'intelligence artificielle avec discernement"
+      },
+      {
+       "id": 587,
+       "label": "Sauvegarder mes fichiers"
+      },
+      {
+       "id": 588,
+       "label": "Organiser mes fichiers numériques"
+      },
+      {
+       "id": 589,
+       "label": "Installer un logiciel"
+      },
+      {
+       "id": 590,
+       "label": "Dépanner un ordinateur"
+      },
+      {
+       "id": 591,
+       "label": "Utiliser un logiciel de dessin"
+      },
+      {
+       "id": 592,
+       "label": "Utiliser un logiciel de musique"
+      },
+      {
+       "id": 593,
+       "label": "Créer du contenu en ligne"
+      },
+      {
+       "id": 594,
+       "label": "Respecter les règles du numérique"
+      }
+     ]
+    },
+    {
+     "id": "travail-manuel-et-artisanat",
+     "title": "Travail manuel et artisanat",
+     "items": [
+      {
+       "id": 595,
+       "label": "Bricoler"
+      },
+      {
+       "id": 596,
+       "label": "Utiliser un tournevis"
+      },
+      {
+       "id": 597,
+       "label": "Planter un clou"
+      },
+      {
+       "id": 598,
+       "label": "Scier du bois"
+      },
+      {
+       "id": 599,
+       "label": "Poncer"
+      },
+      {
+       "id": 600,
+       "label": "Peindre un mur"
+      },
+      {
+       "id": 601,
+       "label": "Monter un meuble"
+      },
+      {
+       "id": 602,
+       "label": "Lire un plan de montage"
+      },
+      {
+       "id": 603,
+       "label": "Souder"
+      },
+      {
+       "id": 604,
+       "label": "Coudre"
+      },
+      {
+       "id": 605,
+       "label": "Tricoter"
+      },
+      {
+       "id": 606,
+       "label": "Broder"
+      },
+      {
+       "id": 607,
+       "label": "Réparer un vêtement"
+      },
+      {
+       "id": 608,
+       "label": "Fabriquer un objet"
+      },
+      {
+       "id": 609,
+       "label": "Tailler la pierre"
+      },
+      {
+       "id": 610,
+       "label": "Travailler la terre"
+      },
+      {
+       "id": 611,
+       "label": "Faire de la poterie"
+      },
+      {
+       "id": 612,
+       "label": "Fabriquer un bijou"
+      },
+      {
+       "id": 613,
+       "label": "Tresser"
+      },
+      {
+       "id": 614,
+       "label": "Teindre un tissu"
+      },
+      {
+       "id": 615,
+       "label": "Travailler le cuir"
+      },
+      {
+       "id": 616,
+       "label": "Travailler le métal"
+      },
+      {
+       "id": 617,
+       "label": "Réparer un vélo"
+      },
+      {
+       "id": 618,
+       "label": "Réparer une moto"
+      },
+      {
+       "id": 619,
+       "label": "Changer une roue"
+      },
+      {
+       "id": 620,
+       "label": "Faire de la menuiserie"
+      },
+      {
+       "id": 621,
+       "label": "Faire de la plomberie simple"
+      },
+      {
+       "id": 622,
+       "label": "Faire de l'électricité simple"
+      },
+      {
+       "id": 623,
+       "label": "Mesurer une planche"
+      },
+      {
+       "id": 624,
+       "label": "Entretenir des outils"
+      }
+     ]
+    },
+    {
+     "id": "sciences-techniques-et-metiers",
+     "title": "Sciences, techniques et métiers",
+     "items": [
+      {
+       "id": 625,
+       "label": "Monter un circuit électrique"
+      },
+      {
+       "id": 626,
+       "label": "Utiliser un microscope"
+      },
+      {
+       "id": 627,
+       "label": "Construire un robot"
+      },
+      {
+       "id": 628,
+       "label": "Utiliser un appareil de mesure"
+      },
+      {
+       "id": 629,
+       "label": "Concevoir un objet en 3D"
+      },
+      {
+       "id": 630,
+       "label": "Utiliser une imprimante 3D"
+      },
+      {
+       "id": 631,
+       "label": "Cultiver un potager"
+      },
+      {
+       "id": 632,
+       "label": "Identifier des plantes"
+      },
+      {
+       "id": 633,
+       "label": "Soigner des animaux"
+      },
+      {
+       "id": 634,
+       "label": "Conduire un véhicule"
+      },
+      {
+       "id": 635,
+       "label": "Conduire un tracteur"
+      },
+      {
+       "id": 636,
+       "label": "Naviguer à la boussole"
+      },
+      {
+       "id": 637,
+       "label": "Piloter un drone"
+      },
+      {
+       "id": 638,
+       "label": "Utiliser une caméra"
+      },
+      {
+       "id": 639,
+       "label": "Faire de la mécanique"
+      },
+      {
+       "id": 640,
+       "label": "Comprendre un moteur"
+      },
+      {
+       "id": 641,
+       "label": "Faire de la maçonnerie"
+      },
+      {
+       "id": 642,
+       "label": "Poser du carrelage"
+      },
+      {
+       "id": 643,
+       "label": "Lire un plan d'architecte"
+      },
+      {
+       "id": 644,
+       "label": "Étudier la météo"
+      },
+      {
+       "id": 645,
+       "label": "Faire des analyses simples"
+      },
+      {
+       "id": 646,
+       "label": "Respecter les consignes de sécurité"
+      },
+      {
+       "id": 647,
+       "label": "Utiliser un extincteur"
+      },
+      {
+       "id": 648,
+       "label": "Secourir une victime"
+      },
+      {
+       "id": 649,
+       "label": "Faire du dessin technique"
+      },
+      {
+       "id": 650,
+       "label": "Prélever un échantillon"
+      },
+      {
+       "id": 651,
+       "label": "Utiliser un GPS"
+      },
+      {
+       "id": 652,
+       "label": "Réparer un téléphone"
+      },
+      {
+       "id": 653,
+       "label": "Utiliser une machine-outil"
+      },
+      {
+       "id": 654,
+       "label": "Manipuler du matériel en sécurité"
+      }
+     ]
+    },
+    {
+     "id": "arts-medias-et-creation",
+     "title": "Arts, médias et création",
+     "items": [
+      {
+       "id": 655,
+       "label": "Dessiner"
+      },
+      {
+       "id": 656,
+       "label": "Peindre"
+      },
+      {
+       "id": 657,
+       "label": "Sculpter"
+      },
+      {
+       "id": 658,
+       "label": "Photographier"
+      },
+      {
+       "id": 659,
+       "label": "Filmer"
+      },
+      {
+       "id": 660,
+       "label": "Monter un film"
+      },
+      {
+       "id": 661,
+       "label": "Composer de la musique"
+      },
+      {
+       "id": 662,
+       "label": "Jouer de la guitare"
+      },
+      {
+       "id": 663,
+       "label": "Jouer du piano"
+      },
+      {
+       "id": 664,
+       "label": "Jouer d'un instrument traditionnel"
+      },
+      {
+       "id": 665,
+       "label": "Chanter"
+      },
+      {
+       "id": 666,
+       "label": "Danser"
+      },
+      {
+       "id": 667,
+       "label": "Faire du théâtre"
+      },
+      {
+       "id": 668,
+       "label": "Faire de la mise en scène"
+      },
+      {
+       "id": 669,
+       "label": "Faire du maquillage artistique"
+      },
+      {
+       "id": 670,
+       "label": "Créer une affiche"
+      },
+      {
+       "id": 671,
+       "label": "Faire de la calligraphie"
+      },
+      {
+       "id": 672,
+       "label": "Faire du graphisme"
+      },
+      {
+       "id": 673,
+       "label": "Dessiner une bande dessinée"
+      },
+      {
+       "id": 674,
+       "label": "Faire de l'animation"
+      },
+      {
+       "id": 675,
+       "label": "Faire du slam"
+      },
+      {
+       "id": 676,
+       "label": "Faire du stand-up"
+      },
+      {
+       "id": 677,
+       "label": "Chanter en chorale"
+      },
+      {
+       "id": 678,
+       "label": "Mixer comme DJ"
+      },
+      {
+       "id": 679,
+       "label": "Concevoir un décor"
+      },
+      {
+       "id": 680,
+       "label": "Faire de la décoration d'intérieur"
+      },
+      {
+       "id": 681,
+       "label": "Créer des vêtements"
+      },
+      {
+       "id": 682,
+       "label": "Écrire pour la radio"
+      },
+      {
+       "id": 683,
+       "label": "Tenir un blog culturel"
+      },
+      {
+       "id": 684,
+       "label": "Réaliser un reportage"
+      }
+     ]
+    },
+    {
+     "id": "corps-sport-et-sante",
+     "title": "Corps, sport et santé",
+     "items": [
+      {
+       "id": 685,
+       "label": "Courir"
+      },
+      {
+       "id": 686,
+       "label": "Nager"
+      },
+      {
+       "id": 687,
+       "label": "Faire du vélo"
+      },
+      {
+       "id": 688,
+       "label": "Jouer au football"
+      },
+      {
+       "id": 689,
+       "label": "Jouer au basket"
+      },
+      {
+       "id": 690,
+       "label": "Jouer au volley"
+      },
+      {
+       "id": 691,
+       "label": "Faire de l'athlétisme"
+      },
+      {
+       "id": 692,
+       "label": "Pratiquer un art martial"
+      },
+      {
+       "id": 693,
+       "label": "Faire du yoga"
+      },
+      {
+       "id": 694,
+       "label": "Faire des étirements"
+      },
+      {
+       "id": 695,
+       "label": "Pratiquer l'escalade"
+      },
+      {
+       "id": 696,
+       "label": "Faire de la randonnée"
+      },
+      {
+       "id": 697,
+       "label": "Jouer en équipe"
+      },
+      {
+       "id": 698,
+       "label": "Respecter les règles du jeu"
+      },
+      {
+       "id": 699,
+       "label": "Perdre avec dignité"
+      },
+      {
+       "id": 700,
+       "label": "Gagner avec humilité"
+      },
+      {
+       "id": 701,
+       "label": "Soigner mon alimentation"
+      },
+      {
+       "id": 702,
+       "label": "Bien dormir"
+      },
+      {
+       "id": 703,
+       "label": "Boire assez d'eau"
+      },
+      {
+       "id": 704,
+       "label": "Gérer mon stress"
+      },
+      {
+       "id": 705,
+       "label": "Respirer pour me calmer"
+      },
+      {
+       "id": 706,
+       "label": "Me relaxer"
+      },
+      {
+       "id": 707,
+       "label": "Faire un bilan de santé"
+      },
+      {
+       "id": 708,
+       "label": "Connaître les gestes de premiers secours"
+      },
+      {
+       "id": 709,
+       "label": "Pratiquer l'hygiène"
+      },
+      {
+       "id": 710,
+       "label": "Arbitrer un match"
+      },
+      {
+       "id": 711,
+       "label": "Entraîner des plus petits"
+      },
+      {
+       "id": 712,
+       "label": "Me dépasser physiquement"
+      },
+      {
+       "id": 713,
+       "label": "M'échauffer avant l'effort"
+      },
+      {
+       "id": 714,
+       "label": "Écouter mon corps"
+      }
+     ]
+    },
+    {
+     "id": "vie-pratique-et-autonomie",
+     "title": "Vie pratique et autonomie",
+     "items": [
+      {
+       "id": 715,
+       "label": "Cuisiner un repas simple"
+      },
+      {
+       "id": 716,
+       "label": "Préparer un petit-déjeuner"
+      },
+      {
+       "id": 717,
+       "label": "Faire les courses"
+      },
+      {
+       "id": 718,
+       "label": "Laver le linge"
+      },
+      {
+       "id": 719,
+       "label": "Repasser"
+      },
+      {
+       "id": 720,
+       "label": "Nettoyer la maison"
+      },
+      {
+       "id": 721,
+       "label": "Faire le ménage"
+      },
+      {
+       "id": 722,
+       "label": "Trier les déchets"
+      },
+      {
+       "id": 723,
+       "label": "Faire la vaisselle"
+      },
+      {
+       "id": 724,
+       "label": "Organiser mon budget"
+      },
+      {
+       "id": 725,
+       "label": "Épargner de l'argent"
+      },
+      {
+       "id": 726,
+       "label": "Remplir un formulaire"
+      },
+      {
+       "id": 727,
+       "label": "Prendre un rendez-vous"
+      },
+      {
+       "id": 728,
+       "label": "Utiliser les transports en commun"
+      },
+      {
+       "id": 729,
+       "label": "Lire un horaire"
+      },
+      {
+       "id": 730,
+       "label": "Faire une démarche administrative"
+      },
+      {
+       "id": 731,
+       "label": "Ouvrir un compte bancaire"
+      },
+      {
+       "id": 732,
+       "label": "Comprendre une facture"
+      },
+      {
+       "id": 733,
+       "label": "Prendre soin de mon apparence"
+      },
+      {
+       "id": 734,
+       "label": "Choisir une tenue adaptée"
+      },
+      {
+       "id": 735,
+       "label": "Soigner les plantes"
+      },
+      {
+       "id": 736,
+       "label": "Prendre soin de mes affaires"
+      },
+      {
+       "id": 737,
+       "label": "Préparer un voyage"
+      },
+      {
+       "id": 738,
+       "label": "Faire une valise"
+      },
+      {
+       "id": 739,
+       "label": "Me déplacer seul·e en sécurité"
+      },
+      {
+       "id": 740,
+       "label": "Demander mon chemin"
+      },
+      {
+       "id": 741,
+       "label": "Gérer une urgence"
+      },
+      {
+       "id": 742,
+       "label": "Vivre en colocation"
+      },
+      {
+       "id": 743,
+       "label": "Cuisiner pour plusieurs personnes"
+      },
+      {
+       "id": 744,
+       "label": "Gérer mon argent de poche"
+      }
+     ]
+    },
+    {
+     "id": "commerce-gestion-et-entrepreneuriat",
+     "title": "Commerce, gestion et entrepreneuriat",
+     "items": [
+      {
+       "id": 745,
+       "label": "Fixer un prix"
+      },
+      {
+       "id": 746,
+       "label": "Faire une étude de marché"
+      },
+      {
+       "id": 747,
+       "label": "Faire un business plan"
+      },
+      {
+       "id": 748,
+       "label": "Créer une entreprise"
+      },
+      {
+       "id": 749,
+       "label": "Trouver des clients"
+      },
+      {
+       "id": 750,
+       "label": "Fidéliser un client"
+      },
+      {
+       "id": 751,
+       "label": "Gérer une boutique"
+      },
+      {
+       "id": 752,
+       "label": "Tenir une comptabilité"
+      },
+      {
+       "id": 753,
+       "label": "Faire un devis"
+      },
+      {
+       "id": 754,
+       "label": "Faire une facture"
+      },
+      {
+       "id": 755,
+       "label": "Négocier avec un fournisseur"
+      },
+      {
+       "id": 756,
+       "label": "Gérer une réclamation"
+      },
+      {
+       "id": 757,
+       "label": "Faire de la publicité"
+      },
+      {
+       "id": 758,
+       "label": "Créer une marque"
+      },
+      {
+       "id": 759,
+       "label": "Développer une clientèle"
+      },
+      {
+       "id": 760,
+       "label": "Communiquer sur les réseaux"
+      },
+      {
+       "id": 761,
+       "label": "Faire du marketing"
+      },
+      {
+       "id": 762,
+       "label": "Gérer une équipe de vente"
+      },
+      {
+       "id": 763,
+       "label": "Prendre des risques mesurés"
+      },
+      {
+       "id": 764,
+       "label": "Tenir un stand de marché"
+      },
+      {
+       "id": 765,
+       "label": "Lancer une mini-entreprise scolaire"
+      },
+      {
+       "id": 766,
+       "label": "Analyser la concurrence"
+      },
+      {
+       "id": 767,
+       "label": "Rechercher des partenaires"
+      },
+      {
+       "id": 768,
+       "label": "Monter un dossier de financement"
+      },
+      {
+       "id": 769,
+       "label": "Fabriquer pour vendre"
+      },
+      {
+       "id": 770,
+       "label": "Revendre des objets"
+      },
+      {
+       "id": 771,
+       "label": "Organiser une vente solidaire"
+      },
+      {
+       "id": 772,
+       "label": "Gérer la trésorerie"
+      },
+      {
+       "id": 773,
+       "label": "Rebondir après un échec"
+      }
+     ]
+    },
+    {
+     "id": "environnement-et-citoyennete",
+     "title": "Environnement et citoyenneté",
+     "items": [
+      {
+       "id": 774,
+       "label": "Recycler"
+      },
+      {
+       "id": 775,
+       "label": "Économiser l'eau"
+      },
+      {
+       "id": 776,
+       "label": "Économiser l'énergie"
+      },
+      {
+       "id": 777,
+       "label": "Réduire le plastique"
+      },
+      {
+       "id": 778,
+       "label": "Planter un arbre"
+      },
+      {
+       "id": 779,
+       "label": "Entretenir un jardin"
+      },
+      {
+       "id": 780,
+       "label": "Faire du compost"
+      },
+      {
+       "id": 781,
+       "label": "Protéger les animaux"
+      },
+      {
+       "id": 782,
+       "label": "Nettoyer un lieu public"
+      },
+      {
+       "id": 783,
+       "label": "Organiser une journée de nettoyage"
+      },
+      {
+       "id": 784,
+       "label": "Sensibiliser à l'écologie"
+      },
+      {
+       "id": 785,
+       "label": "Réparer au lieu de jeter"
+      },
+      {
+       "id": 786,
+       "label": "Acheter d'occasion"
+      },
+      {
+       "id": 787,
+       "label": "Consommer local"
+      },
+      {
+       "id": 788,
+       "label": "Cultiver des légumes"
+      },
+      {
+       "id": 789,
+       "label": "Observer les oiseaux"
+      },
+      {
+       "id": 790,
+       "label": "Respecter la nature en randonnée"
+      },
+      {
+       "id": 791,
+       "label": "Participer à une association"
+      },
+      {
+       "id": 792,
+       "label": "Voter"
+      },
+      {
+       "id": 793,
+       "label": "Connaître ses droits"
+      },
+      {
+       "id": 794,
+       "label": "Respecter la loi"
+      },
+      {
+       "id": 795,
+       "label": "Respecter le bien commun"
+      },
+      {
+       "id": 796,
+       "label": "Défendre la justice"
+      },
+      {
+       "id": 797,
+       "label": "Défendre l'égalité"
+      },
+      {
+       "id": 798,
+       "label": "Lutter contre le harcèlement"
+      },
+      {
+       "id": 799,
+       "label": "Agir pour la paix"
+      },
+      {
+       "id": 800,
+       "label": "Représenter mes camarades"
+      },
+      {
+       "id": 801,
+       "label": "Participer à un conseil de classe"
+      },
+      {
+       "id": 802,
+       "label": "Proposer un projet pour mon quartier"
+      },
+      {
+       "id": 803,
+       "label": "Participer à la vie de ma communauté"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "qualites-personnelles",
+   "number": 4,
+   "title": "Qualités personnelles",
+   "description": "Ce que tu es : ta façon d'être, ton caractère, tes valeurs. Chaque qualité est une force, même si elle s'exprime différemment chez chacun·e.",
+   "color": {
+    "accent": "#a3452c",
+    "tint": "#f5e5de",
+    "soft": "#e4c0b3"
+   },
+   "themes": [
+    {
+     "id": "courage-et-force-interieure",
+     "title": "Courage et force intérieure",
+     "items": [
+      {
+       "id": 804,
+       "label": "Courageux·se"
+      },
+      {
+       "id": 805,
+       "label": "Persévérant·e"
+      },
+      {
+       "id": 806,
+       "label": "Déterminé·e"
+      },
+      {
+       "id": 807,
+       "label": "Résilient·e"
+      },
+      {
+       "id": 808,
+       "label": "Audacieux·se"
+      },
+      {
+       "id": 809,
+       "label": "Brave"
+      },
+      {
+       "id": 810,
+       "label": "Tenace"
+      },
+      {
+       "id": 811,
+       "label": "Fort·e dans l'épreuve"
+      },
+      {
+       "id": 812,
+       "label": "Endurant·e"
+      },
+      {
+       "id": 813,
+       "label": "Vaillant·e"
+      },
+      {
+       "id": 814,
+       "label": "Volontaire"
+      },
+      {
+       "id": 815,
+       "label": "Confiant·e"
+      },
+      {
+       "id": 816,
+       "label": "Sûr·e de moi"
+      },
+      {
+       "id": 817,
+       "label": "Fier·ère de mon parcours"
+      },
+      {
+       "id": 818,
+       "label": "Autonome"
+      },
+      {
+       "id": 819,
+       "label": "Indépendant·e"
+      },
+      {
+       "id": 820,
+       "label": "Fonceur·se"
+      },
+      {
+       "id": 821,
+       "label": "Combatif·ve"
+      },
+      {
+       "id": 822,
+       "label": "Ambitieux·se"
+      },
+      {
+       "id": 823,
+       "label": "Battant·e"
+      },
+      {
+       "id": 824,
+       "label": "Inébranlable"
+      },
+      {
+       "id": 825,
+       "label": "Stable"
+      },
+      {
+       "id": 826,
+       "label": "Solide"
+      },
+      {
+       "id": 827,
+       "label": "Calme face au danger"
+      },
+      {
+       "id": 828,
+       "label": "Capable de gérer mes émotions"
+      },
+      {
+       "id": 829,
+       "label": "Capable de dire non"
+      },
+      {
+       "id": 830,
+       "label": "Capable de recommencer"
+      },
+      {
+       "id": 831,
+       "label": "Capable de relever un défi"
+      },
+      {
+       "id": 832,
+       "label": "Capable de tenir bon"
+      },
+      {
+       "id": 833,
+       "label": "Prêt·e à essayer"
+      },
+      {
+       "id": 834,
+       "label": "Prêt·e à apprendre de l'échec"
+      },
+      {
+       "id": 835,
+       "label": "Résistant·e au stress"
+      }
+     ]
+    },
+    {
+     "id": "cur-et-valeurs",
+     "title": "Cœur et valeurs",
+     "items": [
+      {
+       "id": 836,
+       "label": "Bienveillant·e"
+      },
+      {
+       "id": 837,
+       "label": "Généreux·se"
+      },
+      {
+       "id": 838,
+       "label": "Gentil·le"
+      },
+      {
+       "id": 839,
+       "label": "Aimable"
+      },
+      {
+       "id": 840,
+       "label": "Attentionné·e"
+      },
+      {
+       "id": 841,
+       "label": "Chaleureux·se"
+      },
+      {
+       "id": 842,
+       "label": "Sincère"
+      },
+      {
+       "id": 843,
+       "label": "Honnête"
+      },
+      {
+       "id": 844,
+       "label": "Loyal·e"
+      },
+      {
+       "id": 845,
+       "label": "Fidèle"
+      },
+      {
+       "id": 846,
+       "label": "Juste"
+      },
+      {
+       "id": 847,
+       "label": "Équitable"
+      },
+      {
+       "id": 848,
+       "label": "Respectueux·se"
+      },
+      {
+       "id": 849,
+       "label": "Tolérant·e"
+      },
+      {
+       "id": 850,
+       "label": "Solidaire"
+      },
+      {
+       "id": 851,
+       "label": "Humble"
+      },
+      {
+       "id": 852,
+       "label": "Reconnaissant·e"
+      },
+      {
+       "id": 853,
+       "label": "Compatissant·e"
+      },
+      {
+       "id": 854,
+       "label": "Doux·ce"
+      },
+      {
+       "id": 855,
+       "label": "Affectueux·se"
+      },
+      {
+       "id": 856,
+       "label": "Tendre"
+      },
+      {
+       "id": 857,
+       "label": "Dévoué·e"
+      },
+      {
+       "id": 858,
+       "label": "Altruiste"
+      },
+      {
+       "id": 859,
+       "label": "Pacifique"
+      },
+      {
+       "id": 860,
+       "label": "Droit·e"
+      },
+      {
+       "id": 861,
+       "label": "Intègre"
+      },
+      {
+       "id": 862,
+       "label": "Digne de confiance"
+      },
+      {
+       "id": 863,
+       "label": "Franc·che"
+      },
+      {
+       "id": 864,
+       "label": "Authentique"
+      },
+      {
+       "id": 865,
+       "label": "Sensible"
+      },
+      {
+       "id": 866,
+       "label": "Délicat·e"
+      },
+      {
+       "id": 867,
+       "label": "Protecteur·rice"
+      }
+     ]
+    },
+    {
+     "id": "energie-et-motivation",
+     "title": "Énergie et motivation",
+     "items": [
+      {
+       "id": 868,
+       "label": "Enthousiaste"
+      },
+      {
+       "id": 869,
+       "label": "Dynamique"
+      },
+      {
+       "id": 870,
+       "label": "Motivé·e"
+      },
+      {
+       "id": 871,
+       "label": "Passionné·e"
+      },
+      {
+       "id": 872,
+       "label": "Énergique"
+      },
+      {
+       "id": 873,
+       "label": "Actif·ve"
+      },
+      {
+       "id": 874,
+       "label": "Entreprenant·e"
+      },
+      {
+       "id": 875,
+       "label": "Curieux·se"
+      },
+      {
+       "id": 876,
+       "label": "Impliqué·e"
+      },
+      {
+       "id": 877,
+       "label": "Engagé·e"
+      },
+      {
+       "id": 878,
+       "label": "Investi·e"
+      },
+      {
+       "id": 879,
+       "label": "Joyeux·se"
+      },
+      {
+       "id": 880,
+       "label": "Positif·ve"
+      },
+      {
+       "id": 881,
+       "label": "Optimiste"
+      },
+      {
+       "id": 882,
+       "label": "Plein·e d'entrain"
+      },
+      {
+       "id": 883,
+       "label": "Vif·ve"
+      },
+      {
+       "id": 884,
+       "label": "Débrouillard·e"
+      },
+      {
+       "id": 885,
+       "label": "Travailleur·se"
+      },
+      {
+       "id": 886,
+       "label": "Appliqué·e"
+      },
+      {
+       "id": 887,
+       "label": "Studieux·se"
+      },
+      {
+       "id": 888,
+       "label": "Efficace"
+      },
+      {
+       "id": 889,
+       "label": "Productif·ve"
+      },
+      {
+       "id": 890,
+       "label": "Zélé·e"
+      },
+      {
+       "id": 891,
+       "label": "Ardent·e"
+      },
+      {
+       "id": 892,
+       "label": "Inspiré·e"
+      },
+      {
+       "id": 893,
+       "label": "Rayonnant·e"
+      },
+      {
+       "id": 894,
+       "label": "Plein·e de projets"
+      },
+      {
+       "id": 895,
+       "label": "Prêt·e à m'investir"
+      },
+      {
+       "id": 896,
+       "label": "Tourné·e vers l'avenir"
+      },
+      {
+       "id": 897,
+       "label": "Soucieux·se de bien faire"
+      },
+      {
+       "id": 898,
+       "label": "Ambitieux·se pour les autres"
+      },
+      {
+       "id": 899,
+       "label": "Plein·e de vitalité"
+      }
+     ]
+    },
+    {
+     "id": "sagesse-et-equilibre",
+     "title": "Sagesse et équilibre",
+     "items": [
+      {
+       "id": 900,
+       "label": "Patient·e"
+      },
+      {
+       "id": 901,
+       "label": "Posé·e"
+      },
+      {
+       "id": 902,
+       "label": "Réfléchi·e"
+      },
+      {
+       "id": 903,
+       "label": "Sage"
+      },
+      {
+       "id": 904,
+       "label": "Serein·e"
+      },
+      {
+       "id": 905,
+       "label": "Paisible"
+      },
+      {
+       "id": 906,
+       "label": "Mesuré·e"
+      },
+      {
+       "id": 907,
+       "label": "Modéré·e"
+      },
+      {
+       "id": 908,
+       "label": "Prudent·e"
+      },
+      {
+       "id": 909,
+       "label": "Raisonnable"
+      },
+      {
+       "id": 910,
+       "label": "Lucide"
+      },
+      {
+       "id": 911,
+       "label": "Clairvoyant·e"
+      },
+      {
+       "id": 912,
+       "label": "Mature"
+      },
+      {
+       "id": 913,
+       "label": "Philosophe"
+      },
+      {
+       "id": 914,
+       "label": "Équilibré·e"
+      },
+      {
+       "id": 915,
+       "label": "Maître de moi"
+      },
+      {
+       "id": 916,
+       "label": "Discret·ète"
+      },
+      {
+       "id": 917,
+       "label": "Modeste"
+      },
+      {
+       "id": 918,
+       "label": "Simple"
+      },
+      {
+       "id": 919,
+       "label": "Ouvert·e d'esprit"
+      },
+      {
+       "id": 920,
+       "label": "Nuancé·e"
+      },
+      {
+       "id": 921,
+       "label": "Pondéré·e"
+      },
+      {
+       "id": 922,
+       "label": "Conciliant·e"
+      },
+      {
+       "id": 923,
+       "label": "Diplomate"
+      },
+      {
+       "id": 924,
+       "label": "Tempéré·e"
+      },
+      {
+       "id": 925,
+       "label": "À l'écoute de moi-même"
+      },
+      {
+       "id": 926,
+       "label": "Attentif·ve à mes besoins"
+      },
+      {
+       "id": 927,
+       "label": "Capable de lâcher prise"
+      },
+      {
+       "id": 928,
+       "label": "Capable d'humilité"
+      },
+      {
+       "id": 929,
+       "label": "Rationnel·le"
+      },
+      {
+       "id": 930,
+       "label": "Observateur·rice"
+      },
+      {
+       "id": 931,
+       "label": "Attentif·ve"
+      }
+     ]
+    },
+    {
+     "id": "ouverture-et-curiosite-d-esprit",
+     "title": "Ouverture et curiosité d'esprit",
+     "items": [
+      {
+       "id": 932,
+       "label": "Curieux·se de tout"
+      },
+      {
+       "id": 933,
+       "label": "Ouvert·e au monde"
+      },
+      {
+       "id": 934,
+       "label": "Aventurier·ère"
+      },
+      {
+       "id": 935,
+       "label": "Explorateur·rice"
+      },
+      {
+       "id": 936,
+       "label": "Chercheur·se"
+      },
+      {
+       "id": 937,
+       "label": "Passionné·e de découvertes"
+      },
+      {
+       "id": 938,
+       "label": "Avide de savoir"
+      },
+      {
+       "id": 939,
+       "label": "Innovant·e"
+      },
+      {
+       "id": 940,
+       "label": "Inventif·ve"
+      },
+      {
+       "id": 941,
+       "label": "Imaginatif·ve"
+      },
+      {
+       "id": 942,
+       "label": "Créatif·ve"
+      },
+      {
+       "id": 943,
+       "label": "Original·e"
+      },
+      {
+       "id": 944,
+       "label": "Visionnaire"
+      },
+      {
+       "id": 945,
+       "label": "Rêveur·se"
+      },
+      {
+       "id": 946,
+       "label": "Poétique"
+      },
+      {
+       "id": 947,
+       "label": "Artiste dans l'âme"
+      },
+      {
+       "id": 948,
+       "label": "Esthète"
+      },
+      {
+       "id": 949,
+       "label": "Intuitif·ve"
+      },
+      {
+       "id": 950,
+       "label": "Perspicace"
+      },
+      {
+       "id": 951,
+       "label": "Ingénieux·se"
+      },
+      {
+       "id": 952,
+       "label": "Astucieux·se"
+      },
+      {
+       "id": 953,
+       "label": "Malin·e"
+      },
+      {
+       "id": 954,
+       "label": "Intelligent·e"
+      },
+      {
+       "id": 955,
+       "label": "Vif·ve d'esprit"
+      },
+      {
+       "id": 956,
+       "label": "Cultivé·e"
+      },
+      {
+       "id": 957,
+       "label": "Érudit·e"
+      },
+      {
+       "id": 958,
+       "label": "Éveillé·e"
+      },
+      {
+       "id": 959,
+       "label": "Spontané·e"
+      },
+      {
+       "id": 960,
+       "label": "Flexible"
+      },
+      {
+       "id": 961,
+       "label": "Adaptable"
+      },
+      {
+       "id": 962,
+       "label": "Souple"
+      },
+      {
+       "id": 963,
+       "label": "Polyvalent·e"
+      }
+     ]
+    },
+    {
+     "id": "fiabilite-et-serieux",
+     "title": "Fiabilité et sérieux",
+     "items": [
+      {
+       "id": 964,
+       "label": "Fiable"
+      },
+      {
+       "id": 965,
+       "label": "Responsable"
+      },
+      {
+       "id": 966,
+       "label": "Ponctuel·le"
+      },
+      {
+       "id": 967,
+       "label": "Organisé·e"
+      },
+      {
+       "id": 968,
+       "label": "Rigoureux·se"
+      },
+      {
+       "id": 969,
+       "label": "Consciencieux·se"
+      },
+      {
+       "id": 970,
+       "label": "Méthodique"
+      },
+      {
+       "id": 971,
+       "label": "Soigneux·se"
+      },
+      {
+       "id": 972,
+       "label": "Précis·e"
+      },
+      {
+       "id": 973,
+       "label": "Minutieux·se"
+      },
+      {
+       "id": 974,
+       "label": "Sérieux·se"
+      },
+      {
+       "id": 975,
+       "label": "Assidu·e"
+      },
+      {
+       "id": 976,
+       "label": "Discipliné·e"
+      },
+      {
+       "id": 977,
+       "label": "Crédible"
+      },
+      {
+       "id": 978,
+       "label": "Cohérent·e"
+      },
+      {
+       "id": 979,
+       "label": "Constant·e"
+      },
+      {
+       "id": 980,
+       "label": "Régulier·ère"
+      },
+      {
+       "id": 981,
+       "label": "Vigilant·e"
+      },
+      {
+       "id": 982,
+       "label": "Attentif·ve aux détails"
+      },
+      {
+       "id": 983,
+       "label": "Perfectionniste"
+      },
+      {
+       "id": 984,
+       "label": "Exigeant·e avec moi-même"
+      },
+      {
+       "id": 985,
+       "label": "Fidèle à ma parole"
+      },
+      {
+       "id": 986,
+       "label": "Prévoyant·e"
+      },
+      {
+       "id": 987,
+       "label": "Prévenant·e"
+      },
+      {
+       "id": 988,
+       "label": "Économe"
+      },
+      {
+       "id": 989,
+       "label": "Sobre"
+      },
+      {
+       "id": 990,
+       "label": "Pragmatique"
+      },
+      {
+       "id": 991,
+       "label": "Concret·ète"
+      },
+      {
+       "id": 992,
+       "label": "Réaliste"
+      },
+      {
+       "id": 993,
+       "label": "Logique"
+      },
+      {
+       "id": 994,
+       "label": "Cartésien·ne"
+      },
+      {
+       "id": 995,
+       "label": "Disponible"
+      }
+     ]
+    },
+    {
+     "id": "personnalite-et-singularite",
+     "title": "Personnalité et singularité",
+     "items": [
+      {
+       "id": 996,
+       "label": "Unique"
+      },
+      {
+       "id": 997,
+       "label": "Naturel·le"
+      },
+      {
+       "id": 998,
+       "label": "Fantaisiste"
+      },
+      {
+       "id": 999,
+       "label": "Drôle"
+      },
+      {
+       "id": 1000,
+       "label": "Plein·e d'humour"
+      },
+      {
+       "id": 1001,
+       "label": "Rieur·se"
+      },
+      {
+       "id": 1002,
+       "label": "Espiègle"
+      },
+      {
+       "id": 1003,
+       "label": "Taquin·e"
+      },
+      {
+       "id": 1004,
+       "label": "Charismatique"
+      },
+      {
+       "id": 1005,
+       "label": "Charmant·e"
+      },
+      {
+       "id": 1006,
+       "label": "Élégant·e"
+      },
+      {
+       "id": 1007,
+       "label": "Expressif·ve"
+      },
+      {
+       "id": 1008,
+       "label": "Communicatif·ve"
+      },
+      {
+       "id": 1009,
+       "label": "Extraverti·e"
+      },
+      {
+       "id": 1010,
+       "label": "Introverti·e et profond·e"
+      },
+      {
+       "id": 1011,
+       "label": "Réservé·e et attentif·ve"
+      },
+      {
+       "id": 1012,
+       "label": "Timide et sensible"
+      },
+      {
+       "id": 1013,
+       "label": "Libre"
+      },
+      {
+       "id": 1014,
+       "label": "Affirmé·e"
+      },
+      {
+       "id": 1015,
+       "label": "Fier·ère"
+      },
+      {
+       "id": 1016,
+       "label": "Digne"
+      },
+      {
+       "id": 1017,
+       "label": "Intense"
+      },
+      {
+       "id": 1018,
+       "label": "Calme"
+      },
+      {
+       "id": 1019,
+       "label": "Tranquille"
+      },
+      {
+       "id": 1020,
+       "label": "Pétillant·e"
+      },
+      {
+       "id": 1021,
+       "label": "Lumineux·se"
+      },
+      {
+       "id": 1022,
+       "label": "Rassurant·e"
+      },
+      {
+       "id": 1023,
+       "label": "Inspirant·e"
+      },
+      {
+       "id": 1024,
+       "label": "Attachant·e"
+      },
+      {
+       "id": 1025,
+       "label": "Touchant·e"
+      },
+      {
+       "id": 1026,
+       "label": "Fascinant·e"
+      },
+      {
+       "id": 1027,
+       "label": "Singulier·ère"
+      }
+     ]
+    },
+    {
+     "id": "qualites-de-citoyenne-et-de-guide",
+     "title": "Qualités de citoyen·ne et de guide",
+     "items": [
+      {
+       "id": 1028,
+       "label": "Citoyen·ne actif·ve"
+      },
+      {
+       "id": 1029,
+       "label": "Écoresponsable"
+      },
+      {
+       "id": 1030,
+       "label": "Impliqué·e dans ma communauté"
+      },
+      {
+       "id": 1031,
+       "label": "Participatif·ve"
+      },
+      {
+       "id": 1032,
+       "label": "Rassembleur·se"
+      },
+      {
+       "id": 1033,
+       "label": "Fédérateur·rice"
+      },
+      {
+       "id": 1034,
+       "label": "Médiateur·rice"
+      },
+      {
+       "id": 1035,
+       "label": "Pédagogue"
+      },
+      {
+       "id": 1036,
+       "label": "Mentor naturel·le"
+      },
+      {
+       "id": 1037,
+       "label": "Guide"
+      },
+      {
+       "id": 1038,
+       "label": "Modèle"
+      },
+      {
+       "id": 1039,
+       "label": "Porteur·se de projets"
+      },
+      {
+       "id": 1040,
+       "label": "Entrepreneur·e"
+      },
+      {
+       "id": 1041,
+       "label": "Décideur·se"
+      },
+      {
+       "id": 1042,
+       "label": "Stratège"
+      },
+      {
+       "id": 1043,
+       "label": "Organisateur·rice"
+      },
+      {
+       "id": 1044,
+       "label": "Négociateur·rice"
+      },
+      {
+       "id": 1045,
+       "label": "Orateur·rice"
+      },
+      {
+       "id": 1046,
+       "label": "Porte-parole"
+      },
+      {
+       "id": 1047,
+       "label": "Défenseur·se des autres"
+      },
+      {
+       "id": 1048,
+       "label": "Sentinelle bienveillante"
+      },
+      {
+       "id": 1049,
+       "label": "Gardien·ne de la paix"
+      },
+      {
+       "id": 1050,
+       "label": "Passeur·se de savoirs"
+      },
+      {
+       "id": 1051,
+       "label": "Bâtisseur·se"
+      },
+      {
+       "id": 1052,
+       "label": "Pionnier·ère"
+      },
+      {
+       "id": 1053,
+       "label": "Leader positif·ve"
+      },
+      {
+       "id": 1054,
+       "label": "Ambassadeur·rice"
+      },
+      {
+       "id": 1055,
+       "label": "Veilleur·se"
+      },
+      {
+       "id": 1056,
+       "label": "Facilitateur·rice"
+      },
+      {
+       "id": 1057,
+       "label": "Coéquipier·ère fidèle"
+      },
+      {
+       "id": 1058,
+       "label": "Ami·e fidèle"
+      },
+      {
+       "id": 1059,
+       "label": "Confident·e"
+      },
+      {
+       "id": 1060,
+       "label": "Conseiller·ère"
+      },
+      {
+       "id": 1061,
+       "label": "Soutien précieux"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

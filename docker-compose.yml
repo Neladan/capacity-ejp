@@ -1,0 +1,8 @@
+services:
+  catalogue:
+    build: .
+    image: ejp/mon-catalogue-des-possibles:latest
+    container_name: mon-catalogue-des-possibles
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8080:80"

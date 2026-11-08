@@ -1,0 +1,10 @@
+node_modules
+dist
+dev-dist
+test-results
+playwright-report
+docs
+kit-catalogue-des-possibles
+.git
+.claude
+*.md

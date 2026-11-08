@@ -1,0 +1,59 @@
+:root {
+  /* Maison EJP */
+  --deep: #103b33;
+  --deep-2: #17493f;
+  --ejp: #327b57;
+  --mint: #a9d9c0;
+  --mist: #e9f2f0;
+  --paper: #f6faf8;
+  --ink: #1c2a26;
+  --text: #3d4f4a;
+  /* #66796f dans la charte : assombri d'un cran pour atteindre 4,5:1 sur Papier et Brume. */
+  --muted: #5e7167;
+  --rule: #d6e4df;
+  --white: #ffffff;
+
+  /* Niveaux de réponse. Texte toujours foncé dessus. */
+  --lvl-acquis: #3c9a5f;
+  --lvl-ameliorer: #f2c230;
+  --lvl-essayer: #f0892a;
+  --on-level: #0f1f1a;
+
+  /* Famille courante (remplacée par la vue parcours) */
+  --fam-accent: var(--ejp);
+  --fam-ink: #266445;
+  --fam-tint: var(--mist);
+  --fam-soft: #bfdccb;
+
+  --font-sans: 'Poppins', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Lora', Georgia, serif;
+
+  --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.86rem);
+  --step-0: clamp(0.95rem, 0.92rem + 0.15vw, 1.02rem);
+  --step-1: clamp(1.12rem, 1.06rem + 0.3vw, 1.3rem);
+  --step-2: clamp(1.35rem, 1.2rem + 0.7vw, 1.75rem);
+  --step-3: clamp(1.7rem, 1.4rem + 1.4vw, 2.5rem);
+  --step-4: clamp(2.4rem, 1.7rem + 3.4vw, 4.6rem);
+
+  --radius-s: 10px;
+  --radius-m: 16px;
+  --radius-l: 24px;
+  --radius-pill: 999px;
+
+  --shadow-soft: 0 1px 2px rgb(16 59 51 / 0.06), 0 6px 20px -8px rgb(16 59 51 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(16 59 51 / 0.06), 0 18px 40px -16px rgb(16 59 51 / 0.28);
+
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+
+  --gutter: 16px;
+  --header-h: 60px;
+  --sidebar-w: 320px;
+}
+
+@media (min-width: 720px) {
+  :root {
+    --gutter: 32px;
+  }
+}

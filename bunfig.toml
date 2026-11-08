@@ -1,0 +1,3 @@
+[test]
+# `bun test` ne lance que les tests unitaires ; le parcours Playwright se lance avec `bun run test:e2e`.
+root = "tests/unit"
