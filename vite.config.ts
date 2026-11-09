@@ -9,8 +9,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.png', 'logo-white.png', 'logo-green.png'],
       manifest: {
-        name: 'Mon catalogue des possibles',
-        short_name: 'Mes possibles',
+        name: 'Mon catalogue des possibilités',
+        short_name: 'Mes possibilités',
         description: 'Découvre et reconnais tes capacités, compétences et qualités. EJP Cotonou.',
         lang: 'fr',
         start_url: '/',

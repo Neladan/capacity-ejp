@@ -1,6 +1,6 @@
-# Mon catalogue des possibles · EJP Cotonou
+# Mon catalogue des possibilités · EJP Cotonou
 
-Application web statique qui aide chaque personne, surtout des jeunes, à découvrir et reconnaître ses talents. On y parcourt 1061 capacités, compétences et qualités (4 familles, 34 thèmes), on marque celles où l'on se reconnaît, on remplit son bilan, puis on télécharge son résultat en PDF.
+Application web statique qui aide chaque personne, surtout des jeunes, à découvrir et reconnaître ses talents. On y parcourt 1060 capacités, compétences et qualités (4 familles, 34 thèmes), on marque celles où l'on se reconnaît, on remplit son bilan, puis on télécharge son résultat en PDF.
 
 - Aucun compte, aucun backend : les réponses restent sur l'appareil (`localStorage`, sauvegarde automatique).
 - PWA installable, utilisable hors connexion après la première visite.

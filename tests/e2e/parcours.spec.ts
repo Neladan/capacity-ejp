@@ -6,7 +6,7 @@ test('parcours complet : cocher, changer de niveau, remplir le bilan, téléchar
 
   // Accueil → prénom
   await page.goto('/')
-  await expect(page.getByRole('heading', { level: 1, name: 'Mon catalogue des possibles' })).toBeVisible()
+  await expect(page.getByRole('heading', { level: 1, name: 'Mon catalogue des possibilités' })).toBeVisible()
   await page.getByRole('button', { name: 'Commencer' }).first().click()
   await page.getByLabel(/Comment t.appelles-tu/).fill('Test')
   await page.getByRole('button', { name: 'Continuer' }).click()
@@ -59,7 +59,7 @@ test('parcours complet : cocher, changer de niveau, remplir le bilan, téléchar
   await page.goto('/export')
   await expect(page.locator('.preview')).toHaveAttribute('data-status', 'ready', { timeout: 30_000 })
   const [download] = await Promise.all([page.waitForEvent('download'), page.getByRole('button', { name: 'Télécharger le PDF' }).click()])
-  expect(download.suggestedFilename()).toMatch(/^mon-catalogue-des-possibles-test-\d{4}-\d{2}-\d{2}\.pdf$/)
+  expect(download.suggestedFilename()).toMatch(/^mon-catalogue-des-possibilites-test-\d{4}-\d{2}-\d{2}\.pdf$/)
   const pdf = readFileSync((await download.path())!)
   expect(pdf.subarray(0, 5).toString()).toBe('%PDF-')
   expect(pdf.length).toBeGreaterThan(20_000)

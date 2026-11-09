@@ -1,5 +1,5 @@
 {
- "title": "Mon catalogue des possibles",
+ "title": "Mon catalogue des possibilités",
  "subtitle": "Plus de 1000 capacités, compétences et qualités à découvrir, reconnaître et développer",
  "intro": {
   "why": [
@@ -2987,90 +2987,86 @@
       },
       {
        "id": 693,
-       "label": "Faire du yoga"
-      },
-      {
-       "id": 694,
        "label": "Faire des étirements"
       },
       {
-       "id": 695,
+       "id": 694,
        "label": "Pratiquer l'escalade"
       },
       {
-       "id": 696,
+       "id": 695,
        "label": "Faire de la randonnée"
       },
       {
-       "id": 697,
+       "id": 696,
        "label": "Jouer en équipe"
       },
       {
-       "id": 698,
+       "id": 697,
        "label": "Respecter les règles du jeu"
       },
       {
-       "id": 699,
+       "id": 698,
        "label": "Perdre avec dignité"
       },
       {
-       "id": 700,
+       "id": 699,
        "label": "Gagner avec humilité"
       },
       {
-       "id": 701,
+       "id": 700,
        "label": "Soigner mon alimentation"
       },
       {
-       "id": 702,
+       "id": 701,
        "label": "Bien dormir"
       },
       {
-       "id": 703,
+       "id": 702,
        "label": "Boire assez d'eau"
       },
       {
-       "id": 704,
+       "id": 703,
        "label": "Gérer mon stress"
       },
       {
-       "id": 705,
+       "id": 704,
        "label": "Respirer pour me calmer"
       },
       {
-       "id": 706,
+       "id": 705,
        "label": "Me relaxer"
       },
       {
-       "id": 707,
+       "id": 706,
        "label": "Faire un bilan de santé"
       },
       {
-       "id": 708,
+       "id": 707,
        "label": "Connaître les gestes de premiers secours"
       },
       {
-       "id": 709,
+       "id": 708,
        "label": "Pratiquer l'hygiène"
       },
       {
-       "id": 710,
+       "id": 709,
        "label": "Arbitrer un match"
       },
       {
-       "id": 711,
+       "id": 710,
        "label": "Entraîner des plus petits"
       },
       {
-       "id": 712,
+       "id": 711,
        "label": "Me dépasser physiquement"
       },
       {
-       "id": 713,
+       "id": 712,
        "label": "M'échauffer avant l'effort"
       },
       {
-       "id": 714,
+       "id": 713,
        "label": "Écouter mon corps"
       }
      ]
@@ -3080,123 +3076,123 @@
      "title": "Vie pratique et autonomie",
      "items": [
       {
-       "id": 715,
+       "id": 714,
        "label": "Cuisiner un repas simple"
       },
       {
-       "id": 716,
+       "id": 715,
        "label": "Préparer un petit-déjeuner"
       },
       {
-       "id": 717,
+       "id": 716,
        "label": "Faire les courses"
       },
       {
-       "id": 718,
+       "id": 717,
        "label": "Laver le linge"
       },
       {
-       "id": 719,
+       "id": 718,
        "label": "Repasser"
       },
       {
-       "id": 720,
+       "id": 719,
        "label": "Nettoyer la maison"
       },
       {
-       "id": 721,
+       "id": 720,
        "label": "Faire le ménage"
       },
       {
-       "id": 722,
+       "id": 721,
        "label": "Trier les déchets"
       },
       {
-       "id": 723,
+       "id": 722,
        "label": "Faire la vaisselle"
       },
       {
-       "id": 724,
+       "id": 723,
        "label": "Organiser mon budget"
       },
       {
-       "id": 725,
+       "id": 724,
        "label": "Épargner de l'argent"
       },
       {
-       "id": 726,
+       "id": 725,
        "label": "Remplir un formulaire"
       },
       {
-       "id": 727,
+       "id": 726,
        "label": "Prendre un rendez-vous"
       },
       {
-       "id": 728,
+       "id": 727,
        "label": "Utiliser les transports en commun"
       },
       {
-       "id": 729,
+       "id": 728,
        "label": "Lire un horaire"
       },
       {
-       "id": 730,
+       "id": 729,
        "label": "Faire une démarche administrative"
       },
       {
-       "id": 731,
+       "id": 730,
        "label": "Ouvrir un compte bancaire"
       },
       {
-       "id": 732,
+       "id": 731,
        "label": "Comprendre une facture"
       },
       {
-       "id": 733,
+       "id": 732,
        "label": "Prendre soin de mon apparence"
       },
       {
-       "id": 734,
+       "id": 733,
        "label": "Choisir une tenue adaptée"
       },
       {
-       "id": 735,
+       "id": 734,
        "label": "Soigner les plantes"
       },
       {
-       "id": 736,
+       "id": 735,
        "label": "Prendre soin de mes affaires"
       },
       {
-       "id": 737,
+       "id": 736,
        "label": "Préparer un voyage"
       },
       {
-       "id": 738,
+       "id": 737,
        "label": "Faire une valise"
       },
       {
-       "id": 739,
+       "id": 738,
        "label": "Me déplacer seul·e en sécurité"
       },
       {
-       "id": 740,
+       "id": 739,
        "label": "Demander mon chemin"
       },
       {
-       "id": 741,
+       "id": 740,
        "label": "Gérer une urgence"
       },
       {
-       "id": 742,
+       "id": 741,
        "label": "Vivre en colocation"
       },
       {
-       "id": 743,
+       "id": 742,
        "label": "Cuisiner pour plusieurs personnes"
       },
       {
-       "id": 744,
+       "id": 743,
        "label": "Gérer mon argent de poche"
       }
      ]
@@ -3206,119 +3202,119 @@
      "title": "Commerce, gestion et entrepreneuriat",
      "items": [
       {
-       "id": 745,
+       "id": 744,
        "label": "Fixer un prix"
       },
       {
-       "id": 746,
+       "id": 745,
        "label": "Faire une étude de marché"
       },
       {
-       "id": 747,
+       "id": 746,
        "label": "Faire un business plan"
       },
       {
-       "id": 748,
+       "id": 747,
        "label": "Créer une entreprise"
       },
       {
-       "id": 749,
+       "id": 748,
        "label": "Trouver des clients"
       },
       {
-       "id": 750,
+       "id": 749,
        "label": "Fidéliser un client"
       },
       {
-       "id": 751,
+       "id": 750,
        "label": "Gérer une boutique"
       },
       {
-       "id": 752,
+       "id": 751,
        "label": "Tenir une comptabilité"
       },
       {
-       "id": 753,
+       "id": 752,
        "label": "Faire un devis"
       },
       {
-       "id": 754,
+       "id": 753,
        "label": "Faire une facture"
       },
       {
-       "id": 755,
+       "id": 754,
        "label": "Négocier avec un fournisseur"
       },
       {
-       "id": 756,
+       "id": 755,
        "label": "Gérer une réclamation"
       },
       {
-       "id": 757,
+       "id": 756,
        "label": "Faire de la publicité"
       },
       {
-       "id": 758,
+       "id": 757,
        "label": "Créer une marque"
       },
       {
-       "id": 759,
+       "id": 758,
        "label": "Développer une clientèle"
       },
       {
-       "id": 760,
+       "id": 759,
        "label": "Communiquer sur les réseaux"
       },
       {
-       "id": 761,
+       "id": 760,
        "label": "Faire du marketing"
       },
       {
-       "id": 762,
+       "id": 761,
        "label": "Gérer une équipe de vente"
       },
       {
-       "id": 763,
+       "id": 762,
        "label": "Prendre des risques mesurés"
       },
       {
-       "id": 764,
+       "id": 763,
        "label": "Tenir un stand de marché"
       },
       {
-       "id": 765,
+       "id": 764,
        "label": "Lancer une mini-entreprise scolaire"
       },
       {
-       "id": 766,
+       "id": 765,
        "label": "Analyser la concurrence"
       },
       {
-       "id": 767,
+       "id": 766,
        "label": "Rechercher des partenaires"
       },
       {
-       "id": 768,
+       "id": 767,
        "label": "Monter un dossier de financement"
       },
       {
-       "id": 769,
+       "id": 768,
        "label": "Fabriquer pour vendre"
       },
       {
-       "id": 770,
+       "id": 769,
        "label": "Revendre des objets"
       },
       {
-       "id": 771,
+       "id": 770,
        "label": "Organiser une vente solidaire"
       },
       {
-       "id": 772,
+       "id": 771,
        "label": "Gérer la trésorerie"
       },
       {
-       "id": 773,
+       "id": 772,
        "label": "Rebondir après un échec"
       }
      ]
@@ -3328,123 +3324,123 @@
      "title": "Environnement et citoyenneté",
      "items": [
       {
-       "id": 774,
+       "id": 773,
        "label": "Recycler"
       },
       {
-       "id": 775,
+       "id": 774,
        "label": "Économiser l'eau"
       },
       {
-       "id": 776,
+       "id": 775,
        "label": "Économiser l'énergie"
       },
       {
-       "id": 777,
+       "id": 776,
        "label": "Réduire le plastique"
       },
       {
-       "id": 778,
+       "id": 777,
        "label": "Planter un arbre"
       },
       {
-       "id": 779,
+       "id": 778,
        "label": "Entretenir un jardin"
       },
       {
-       "id": 780,
+       "id": 779,
        "label": "Faire du compost"
       },
       {
-       "id": 781,
+       "id": 780,
        "label": "Protéger les animaux"
       },
       {
-       "id": 782,
+       "id": 781,
        "label": "Nettoyer un lieu public"
       },
       {
-       "id": 783,
+       "id": 782,
        "label": "Organiser une journée de nettoyage"
       },
       {
-       "id": 784,
+       "id": 783,
        "label": "Sensibiliser à l'écologie"
       },
       {
-       "id": 785,
+       "id": 784,
        "label": "Réparer au lieu de jeter"
       },
       {
-       "id": 786,
+       "id": 785,
        "label": "Acheter d'occasion"
       },
       {
-       "id": 787,
+       "id": 786,
        "label": "Consommer local"
       },
       {
-       "id": 788,
+       "id": 787,
        "label": "Cultiver des légumes"
       },
       {
-       "id": 789,
+       "id": 788,
        "label": "Observer les oiseaux"
       },
       {
-       "id": 790,
+       "id": 789,
        "label": "Respecter la nature en randonnée"
       },
       {
-       "id": 791,
+       "id": 790,
        "label": "Participer à une association"
       },
       {
-       "id": 792,
+       "id": 791,
        "label": "Voter"
       },
       {
-       "id": 793,
+       "id": 792,
        "label": "Connaître ses droits"
       },
       {
-       "id": 794,
+       "id": 793,
        "label": "Respecter la loi"
       },
       {
-       "id": 795,
+       "id": 794,
        "label": "Respecter le bien commun"
       },
       {
-       "id": 796,
+       "id": 795,
        "label": "Défendre la justice"
       },
       {
-       "id": 797,
+       "id": 796,
        "label": "Défendre l'égalité"
       },
       {
-       "id": 798,
+       "id": 797,
        "label": "Lutter contre le harcèlement"
       },
       {
-       "id": 799,
+       "id": 798,
        "label": "Agir pour la paix"
       },
       {
-       "id": 800,
+       "id": 799,
        "label": "Représenter mes camarades"
       },
       {
-       "id": 801,
+       "id": 800,
        "label": "Participer à un conseil de classe"
       },
       {
-       "id": 802,
+       "id": 801,
        "label": "Proposer un projet pour mon quartier"
       },
       {
-       "id": 803,
+       "id": 802,
        "label": "Participer à la vie de ma communauté"
       }
      ]
@@ -3467,131 +3463,131 @@
      "title": "Courage et force intérieure",
      "items": [
       {
-       "id": 804,
+       "id": 803,
        "label": "Courageux·se"
       },
       {
-       "id": 805,
+       "id": 804,
        "label": "Persévérant·e"
       },
       {
-       "id": 806,
+       "id": 805,
        "label": "Déterminé·e"
       },
       {
-       "id": 807,
+       "id": 806,
        "label": "Résilient·e"
       },
       {
-       "id": 808,
+       "id": 807,
        "label": "Audacieux·se"
       },
       {
-       "id": 809,
+       "id": 808,
        "label": "Brave"
       },
       {
-       "id": 810,
+       "id": 809,
        "label": "Tenace"
       },
       {
-       "id": 811,
+       "id": 810,
        "label": "Fort·e dans l'épreuve"
       },
       {
-       "id": 812,
+       "id": 811,
        "label": "Endurant·e"
       },
       {
-       "id": 813,
+       "id": 812,
        "label": "Vaillant·e"
       },
       {
-       "id": 814,
+       "id": 813,
        "label": "Volontaire"
       },
       {
-       "id": 815,
+       "id": 814,
        "label": "Confiant·e"
       },
       {
-       "id": 816,
+       "id": 815,
        "label": "Sûr·e de moi"
       },
       {
-       "id": 817,
+       "id": 816,
        "label": "Fier·ère de mon parcours"
       },
       {
-       "id": 818,
+       "id": 817,
        "label": "Autonome"
       },
       {
-       "id": 819,
+       "id": 818,
        "label": "Indépendant·e"
       },
       {
-       "id": 820,
+       "id": 819,
        "label": "Fonceur·se"
       },
       {
-       "id": 821,
+       "id": 820,
        "label": "Combatif·ve"
       },
       {
-       "id": 822,
+       "id": 821,
        "label": "Ambitieux·se"
       },
       {
-       "id": 823,
+       "id": 822,
        "label": "Battant·e"
       },
       {
-       "id": 824,
+       "id": 823,
        "label": "Inébranlable"
       },
       {
-       "id": 825,
+       "id": 824,
        "label": "Stable"
       },
       {
-       "id": 826,
+       "id": 825,
        "label": "Solide"
       },
       {
-       "id": 827,
+       "id": 826,
        "label": "Calme face au danger"
       },
       {
-       "id": 828,
+       "id": 827,
        "label": "Capable de gérer mes émotions"
       },
       {
-       "id": 829,
+       "id": 828,
        "label": "Capable de dire non"
       },
       {
-       "id": 830,
+       "id": 829,
        "label": "Capable de recommencer"
       },
       {
-       "id": 831,
+       "id": 830,
        "label": "Capable de relever un défi"
       },
       {
-       "id": 832,
+       "id": 831,
        "label": "Capable de tenir bon"
       },
       {
-       "id": 833,
+       "id": 832,
        "label": "Prêt·e à essayer"
       },
       {
-       "id": 834,
+       "id": 833,
        "label": "Prêt·e à apprendre de l'échec"
       },
       {
-       "id": 835,
+       "id": 834,
        "label": "Résistant·e au stress"
       }
      ]
@@ -3601,131 +3597,131 @@
      "title": "Cœur et valeurs",
      "items": [
       {
-       "id": 836,
+       "id": 835,
        "label": "Bienveillant·e"
       },
       {
-       "id": 837,
+       "id": 836,
        "label": "Généreux·se"
       },
       {
-       "id": 838,
+       "id": 837,
        "label": "Gentil·le"
       },
       {
-       "id": 839,
+       "id": 838,
        "label": "Aimable"
       },
       {
-       "id": 840,
+       "id": 839,
        "label": "Attentionné·e"
       },
       {
-       "id": 841,
+       "id": 840,
        "label": "Chaleureux·se"
       },
       {
-       "id": 842,
+       "id": 841,
        "label": "Sincère"
       },
       {
-       "id": 843,
+       "id": 842,
        "label": "Honnête"
       },
       {
-       "id": 844,
+       "id": 843,
        "label": "Loyal·e"
       },
       {
-       "id": 845,
+       "id": 844,
        "label": "Fidèle"
       },
       {
-       "id": 846,
+       "id": 845,
        "label": "Juste"
       },
       {
-       "id": 847,
+       "id": 846,
        "label": "Équitable"
       },
       {
-       "id": 848,
+       "id": 847,
        "label": "Respectueux·se"
       },
       {
-       "id": 849,
+       "id": 848,
        "label": "Tolérant·e"
       },
       {
-       "id": 850,
+       "id": 849,
        "label": "Solidaire"
       },
       {
-       "id": 851,
+       "id": 850,
        "label": "Humble"
       },
       {
-       "id": 852,
+       "id": 851,
        "label": "Reconnaissant·e"
       },
       {
-       "id": 853,
+       "id": 852,
        "label": "Compatissant·e"
       },
       {
-       "id": 854,
+       "id": 853,
        "label": "Doux·ce"
       },
       {
-       "id": 855,
+       "id": 854,
        "label": "Affectueux·se"
       },
       {
-       "id": 856,
+       "id": 855,
        "label": "Tendre"
       },
       {
-       "id": 857,
+       "id": 856,
        "label": "Dévoué·e"
       },
       {
-       "id": 858,
+       "id": 857,
        "label": "Altruiste"
       },
       {
-       "id": 859,
+       "id": 858,
        "label": "Pacifique"
       },
       {
-       "id": 860,
+       "id": 859,
        "label": "Droit·e"
       },
       {
-       "id": 861,
+       "id": 860,
        "label": "Intègre"
       },
       {
-       "id": 862,
+       "id": 861,
        "label": "Digne de confiance"
       },
       {
-       "id": 863,
+       "id": 862,
        "label": "Franc·che"
       },
       {
-       "id": 864,
+       "id": 863,
        "label": "Authentique"
       },
       {
-       "id": 865,
+       "id": 864,
        "label": "Sensible"
       },
       {
-       "id": 866,
+       "id": 865,
        "label": "Délicat·e"
       },
       {
-       "id": 867,
+       "id": 866,
        "label": "Protecteur·rice"
       }
      ]
@@ -3735,131 +3731,131 @@
      "title": "Énergie et motivation",
      "items": [
       {
-       "id": 868,
+       "id": 867,
        "label": "Enthousiaste"
       },
       {
-       "id": 869,
+       "id": 868,
        "label": "Dynamique"
       },
       {
-       "id": 870,
+       "id": 869,
        "label": "Motivé·e"
       },
       {
-       "id": 871,
+       "id": 870,
        "label": "Passionné·e"
       },
       {
-       "id": 872,
+       "id": 871,
        "label": "Énergique"
       },
       {
-       "id": 873,
+       "id": 872,
        "label": "Actif·ve"
       },
       {
-       "id": 874,
+       "id": 873,
        "label": "Entreprenant·e"
       },
       {
-       "id": 875,
+       "id": 874,
        "label": "Curieux·se"
       },
       {
-       "id": 876,
+       "id": 875,
        "label": "Impliqué·e"
       },
       {
-       "id": 877,
+       "id": 876,
        "label": "Engagé·e"
       },
       {
-       "id": 878,
+       "id": 877,
        "label": "Investi·e"
       },
       {
-       "id": 879,
+       "id": 878,
        "label": "Joyeux·se"
       },
       {
-       "id": 880,
+       "id": 879,
        "label": "Positif·ve"
       },
       {
-       "id": 881,
+       "id": 880,
        "label": "Optimiste"
       },
       {
-       "id": 882,
+       "id": 881,
        "label": "Plein·e d'entrain"
       },
       {
-       "id": 883,
+       "id": 882,
        "label": "Vif·ve"
       },
       {
-       "id": 884,
+       "id": 883,
        "label": "Débrouillard·e"
       },
       {
-       "id": 885,
+       "id": 884,
        "label": "Travailleur·se"
       },
       {
-       "id": 886,
+       "id": 885,
        "label": "Appliqué·e"
       },
       {
-       "id": 887,
+       "id": 886,
        "label": "Studieux·se"
       },
       {
-       "id": 888,
+       "id": 887,
        "label": "Efficace"
       },
       {
-       "id": 889,
+       "id": 888,
        "label": "Productif·ve"
       },
       {
-       "id": 890,
+       "id": 889,
        "label": "Zélé·e"
       },
       {
-       "id": 891,
+       "id": 890,
        "label": "Ardent·e"
       },
       {
-       "id": 892,
+       "id": 891,
        "label": "Inspiré·e"
       },
       {
-       "id": 893,
+       "id": 892,
        "label": "Rayonnant·e"
       },
       {
-       "id": 894,
+       "id": 893,
        "label": "Plein·e de projets"
       },
       {
-       "id": 895,
+       "id": 894,
        "label": "Prêt·e à m'investir"
       },
       {
-       "id": 896,
+       "id": 895,
        "label": "Tourné·e vers l'avenir"
       },
       {
-       "id": 897,
+       "id": 896,
        "label": "Soucieux·se de bien faire"
       },
       {
-       "id": 898,
+       "id": 897,
        "label": "Ambitieux·se pour les autres"
       },
       {
-       "id": 899,
+       "id": 898,
        "label": "Plein·e de vitalité"
       }
      ]
@@ -3869,131 +3865,131 @@
      "title": "Sagesse et équilibre",
      "items": [
       {
-       "id": 900,
+       "id": 899,
        "label": "Patient·e"
       },
       {
-       "id": 901,
+       "id": 900,
        "label": "Posé·e"
       },
       {
-       "id": 902,
+       "id": 901,
        "label": "Réfléchi·e"
       },
       {
-       "id": 903,
+       "id": 902,
        "label": "Sage"
       },
       {
-       "id": 904,
+       "id": 903,
        "label": "Serein·e"
       },
       {
-       "id": 905,
+       "id": 904,
        "label": "Paisible"
       },
       {
-       "id": 906,
+       "id": 905,
        "label": "Mesuré·e"
       },
       {
-       "id": 907,
+       "id": 906,
        "label": "Modéré·e"
       },
       {
-       "id": 908,
+       "id": 907,
        "label": "Prudent·e"
       },
       {
-       "id": 909,
+       "id": 908,
        "label": "Raisonnable"
       },
       {
-       "id": 910,
+       "id": 909,
        "label": "Lucide"
       },
       {
-       "id": 911,
+       "id": 910,
        "label": "Clairvoyant·e"
       },
       {
-       "id": 912,
+       "id": 911,
        "label": "Mature"
       },
       {
-       "id": 913,
+       "id": 912,
        "label": "Philosophe"
       },
       {
-       "id": 914,
+       "id": 913,
        "label": "Équilibré·e"
       },
       {
-       "id": 915,
+       "id": 914,
        "label": "Maître de moi"
       },
       {
-       "id": 916,
+       "id": 915,
        "label": "Discret·ète"
       },
       {
-       "id": 917,
+       "id": 916,
        "label": "Modeste"
       },
       {
-       "id": 918,
+       "id": 917,
        "label": "Simple"
       },
       {
-       "id": 919,
+       "id": 918,
        "label": "Ouvert·e d'esprit"
       },
       {
-       "id": 920,
+       "id": 919,
        "label": "Nuancé·e"
       },
       {
-       "id": 921,
+       "id": 920,
        "label": "Pondéré·e"
       },
       {
-       "id": 922,
+       "id": 921,
        "label": "Conciliant·e"
       },
       {
-       "id": 923,
+       "id": 922,
        "label": "Diplomate"
       },
       {
-       "id": 924,
+       "id": 923,
        "label": "Tempéré·e"
       },
       {
-       "id": 925,
+       "id": 924,
        "label": "À l'écoute de moi-même"
       },
       {
-       "id": 926,
+       "id": 925,
        "label": "Attentif·ve à mes besoins"
       },
       {
-       "id": 927,
+       "id": 926,
        "label": "Capable de lâcher prise"
       },
       {
-       "id": 928,
+       "id": 927,
        "label": "Capable d'humilité"
       },
       {
-       "id": 929,
+       "id": 928,
        "label": "Rationnel·le"
       },
       {
-       "id": 930,
+       "id": 929,
        "label": "Observateur·rice"
       },
       {
-       "id": 931,
+       "id": 930,
        "label": "Attentif·ve"
       }
      ]
@@ -4003,131 +3999,131 @@
      "title": "Ouverture et curiosité d'esprit",
      "items": [
       {
-       "id": 932,
+       "id": 931,
        "label": "Curieux·se de tout"
       },
       {
-       "id": 933,
+       "id": 932,
        "label": "Ouvert·e au monde"
       },
       {
-       "id": 934,
+       "id": 933,
        "label": "Aventurier·ère"
       },
       {
-       "id": 935,
+       "id": 934,
        "label": "Explorateur·rice"
       },
       {
-       "id": 936,
+       "id": 935,
        "label": "Chercheur·se"
       },
       {
-       "id": 937,
+       "id": 936,
        "label": "Passionné·e de découvertes"
       },
       {
-       "id": 938,
+       "id": 937,
        "label": "Avide de savoir"
       },
       {
-       "id": 939,
+       "id": 938,
        "label": "Innovant·e"
       },
       {
-       "id": 940,
+       "id": 939,
        "label": "Inventif·ve"
       },
       {
-       "id": 941,
+       "id": 940,
        "label": "Imaginatif·ve"
       },
       {
-       "id": 942,
+       "id": 941,
        "label": "Créatif·ve"
       },
       {
-       "id": 943,
+       "id": 942,
        "label": "Original·e"
       },
       {
-       "id": 944,
+       "id": 943,
        "label": "Visionnaire"
       },
       {
-       "id": 945,
+       "id": 944,
        "label": "Rêveur·se"
       },
       {
-       "id": 946,
+       "id": 945,
        "label": "Poétique"
       },
       {
-       "id": 947,
+       "id": 946,
        "label": "Artiste dans l'âme"
       },
       {
-       "id": 948,
+       "id": 947,
        "label": "Esthète"
       },
       {
-       "id": 949,
+       "id": 948,
        "label": "Intuitif·ve"
       },
       {
-       "id": 950,
+       "id": 949,
        "label": "Perspicace"
       },
       {
-       "id": 951,
+       "id": 950,
        "label": "Ingénieux·se"
       },
       {
-       "id": 952,
+       "id": 951,
        "label": "Astucieux·se"
       },
       {
-       "id": 953,
+       "id": 952,
        "label": "Malin·e"
       },
       {
-       "id": 954,
+       "id": 953,
        "label": "Intelligent·e"
       },
       {
-       "id": 955,
+       "id": 954,
        "label": "Vif·ve d'esprit"
       },
       {
-       "id": 956,
+       "id": 955,
        "label": "Cultivé·e"
       },
       {
-       "id": 957,
+       "id": 956,
        "label": "Érudit·e"
       },
       {
-       "id": 958,
+       "id": 957,
        "label": "Éveillé·e"
       },
       {
-       "id": 959,
+       "id": 958,
        "label": "Spontané·e"
       },
       {
-       "id": 960,
+       "id": 959,
        "label": "Flexible"
       },
       {
-       "id": 961,
+       "id": 960,
        "label": "Adaptable"
       },
       {
-       "id": 962,
+       "id": 961,
        "label": "Souple"
       },
       {
-       "id": 963,
+       "id": 962,
        "label": "Polyvalent·e"
       }
      ]
@@ -4137,131 +4133,131 @@
      "title": "Fiabilité et sérieux",
      "items": [
       {
-       "id": 964,
+       "id": 963,
        "label": "Fiable"
       },
       {
-       "id": 965,
+       "id": 964,
        "label": "Responsable"
       },
       {
-       "id": 966,
+       "id": 965,
        "label": "Ponctuel·le"
       },
       {
-       "id": 967,
+       "id": 966,
        "label": "Organisé·e"
       },
       {
-       "id": 968,
+       "id": 967,
        "label": "Rigoureux·se"
       },
       {
-       "id": 969,
+       "id": 968,
        "label": "Consciencieux·se"
       },
       {
-       "id": 970,
+       "id": 969,
        "label": "Méthodique"
       },
       {
-       "id": 971,
+       "id": 970,
        "label": "Soigneux·se"
       },
       {
-       "id": 972,
+       "id": 971,
        "label": "Précis·e"
       },
       {
-       "id": 973,
+       "id": 972,
        "label": "Minutieux·se"
       },
       {
-       "id": 974,
+       "id": 973,
        "label": "Sérieux·se"
       },
       {
-       "id": 975,
+       "id": 974,
        "label": "Assidu·e"
       },
       {
-       "id": 976,
+       "id": 975,
        "label": "Discipliné·e"
       },
       {
-       "id": 977,
+       "id": 976,
        "label": "Crédible"
       },
       {
-       "id": 978,
+       "id": 977,
        "label": "Cohérent·e"
       },
       {
-       "id": 979,
+       "id": 978,
        "label": "Constant·e"
       },
       {
-       "id": 980,
+       "id": 979,
        "label": "Régulier·ère"
       },
       {
-       "id": 981,
+       "id": 980,
        "label": "Vigilant·e"
       },
       {
-       "id": 982,
+       "id": 981,
        "label": "Attentif·ve aux détails"
       },
       {
-       "id": 983,
+       "id": 982,
        "label": "Perfectionniste"
       },
       {
-       "id": 984,
+       "id": 983,
        "label": "Exigeant·e avec moi-même"
       },
       {
-       "id": 985,
+       "id": 984,
        "label": "Fidèle à ma parole"
       },
       {
-       "id": 986,
+       "id": 985,
        "label": "Prévoyant·e"
       },
       {
-       "id": 987,
+       "id": 986,
        "label": "Prévenant·e"
       },
       {
-       "id": 988,
+       "id": 987,
        "label": "Économe"
       },
       {
-       "id": 989,
+       "id": 988,
        "label": "Sobre"
       },
       {
-       "id": 990,
+       "id": 989,
        "label": "Pragmatique"
       },
       {
-       "id": 991,
+       "id": 990,
        "label": "Concret·ète"
       },
       {
-       "id": 992,
+       "id": 991,
        "label": "Réaliste"
       },
       {
-       "id": 993,
+       "id": 992,
        "label": "Logique"
       },
       {
-       "id": 994,
+       "id": 993,
        "label": "Cartésien·ne"
       },
       {
-       "id": 995,
+       "id": 994,
        "label": "Disponible"
       }
      ]
@@ -4271,131 +4267,131 @@
      "title": "Personnalité et singularité",
      "items": [
       {
-       "id": 996,
+       "id": 995,
        "label": "Unique"
       },
       {
-       "id": 997,
+       "id": 996,
        "label": "Naturel·le"
       },
       {
-       "id": 998,
+       "id": 997,
        "label": "Fantaisiste"
       },
       {
-       "id": 999,
+       "id": 998,
        "label": "Drôle"
       },
       {
-       "id": 1000,
+       "id": 999,
        "label": "Plein·e d'humour"
       },
       {
-       "id": 1001,
+       "id": 1000,
        "label": "Rieur·se"
       },
       {
-       "id": 1002,
+       "id": 1001,
        "label": "Espiègle"
       },
       {
-       "id": 1003,
+       "id": 1002,
        "label": "Taquin·e"
       },
       {
-       "id": 1004,
+       "id": 1003,
        "label": "Charismatique"
       },
       {
-       "id": 1005,
+       "id": 1004,
        "label": "Charmant·e"
       },
       {
-       "id": 1006,
+       "id": 1005,
        "label": "Élégant·e"
       },
       {
-       "id": 1007,
+       "id": 1006,
        "label": "Expressif·ve"
       },
       {
-       "id": 1008,
+       "id": 1007,
        "label": "Communicatif·ve"
       },
       {
-       "id": 1009,
+       "id": 1008,
        "label": "Extraverti·e"
       },
       {
-       "id": 1010,
+       "id": 1009,
        "label": "Introverti·e et profond·e"
       },
       {
-       "id": 1011,
+       "id": 1010,
        "label": "Réservé·e et attentif·ve"
       },
       {
-       "id": 1012,
+       "id": 1011,
        "label": "Timide et sensible"
       },
       {
-       "id": 1013,
+       "id": 1012,
        "label": "Libre"
       },
       {
-       "id": 1014,
+       "id": 1013,
        "label": "Affirmé·e"
       },
       {
-       "id": 1015,
+       "id": 1014,
        "label": "Fier·ère"
       },
       {
-       "id": 1016,
+       "id": 1015,
        "label": "Digne"
       },
       {
-       "id": 1017,
+       "id": 1016,
        "label": "Intense"
       },
       {
-       "id": 1018,
+       "id": 1017,
        "label": "Calme"
       },
       {
-       "id": 1019,
+       "id": 1018,
        "label": "Tranquille"
       },
       {
-       "id": 1020,
+       "id": 1019,
        "label": "Pétillant·e"
       },
       {
-       "id": 1021,
+       "id": 1020,
        "label": "Lumineux·se"
       },
       {
-       "id": 1022,
+       "id": 1021,
        "label": "Rassurant·e"
       },
       {
-       "id": 1023,
+       "id": 1022,
        "label": "Inspirant·e"
       },
       {
-       "id": 1024,
+       "id": 1023,
        "label": "Attachant·e"
       },
       {
-       "id": 1025,
+       "id": 1024,
        "label": "Touchant·e"
       },
       {
-       "id": 1026,
+       "id": 1025,
        "label": "Fascinant·e"
       },
       {
-       "id": 1027,
+       "id": 1026,
        "label": "Singulier·ère"
       }
      ]
@@ -4405,139 +4401,139 @@
      "title": "Qualités de citoyen·ne et de guide",
      "items": [
       {
-       "id": 1028,
+       "id": 1027,
        "label": "Citoyen·ne actif·ve"
       },
       {
-       "id": 1029,
+       "id": 1028,
        "label": "Écoresponsable"
       },
       {
-       "id": 1030,
+       "id": 1029,
        "label": "Impliqué·e dans ma communauté"
       },
       {
-       "id": 1031,
+       "id": 1030,
        "label": "Participatif·ve"
       },
       {
-       "id": 1032,
+       "id": 1031,
        "label": "Rassembleur·se"
       },
       {
-       "id": 1033,
+       "id": 1032,
        "label": "Fédérateur·rice"
       },
       {
-       "id": 1034,
+       "id": 1033,
        "label": "Médiateur·rice"
       },
       {
-       "id": 1035,
+       "id": 1034,
        "label": "Pédagogue"
       },
       {
-       "id": 1036,
+       "id": 1035,
        "label": "Mentor naturel·le"
       },
       {
-       "id": 1037,
+       "id": 1036,
        "label": "Guide"
       },
       {
-       "id": 1038,
+       "id": 1037,
        "label": "Modèle"
       },
       {
-       "id": 1039,
+       "id": 1038,
        "label": "Porteur·se de projets"
       },
       {
-       "id": 1040,
+       "id": 1039,
        "label": "Entrepreneur·e"
       },
       {
-       "id": 1041,
+       "id": 1040,
        "label": "Décideur·se"
       },
       {
-       "id": 1042,
+       "id": 1041,
        "label": "Stratège"
       },
       {
-       "id": 1043,
+       "id": 1042,
        "label": "Organisateur·rice"
       },
       {
-       "id": 1044,
+       "id": 1043,
        "label": "Négociateur·rice"
       },
       {
-       "id": 1045,
+       "id": 1044,
        "label": "Orateur·rice"
       },
       {
-       "id": 1046,
+       "id": 1045,
        "label": "Porte-parole"
       },
       {
-       "id": 1047,
+       "id": 1046,
        "label": "Défenseur·se des autres"
       },
       {
-       "id": 1048,
+       "id": 1047,
        "label": "Sentinelle bienveillante"
       },
       {
-       "id": 1049,
+       "id": 1048,
        "label": "Gardien·ne de la paix"
       },
       {
-       "id": 1050,
+       "id": 1049,
        "label": "Passeur·se de savoirs"
       },
       {
-       "id": 1051,
+       "id": 1050,
        "label": "Bâtisseur·se"
       },
       {
-       "id": 1052,
+       "id": 1051,
        "label": "Pionnier·ère"
       },
       {
-       "id": 1053,
+       "id": 1052,
        "label": "Leader positif·ve"
       },
       {
-       "id": 1054,
+       "id": 1053,
        "label": "Ambassadeur·rice"
       },
       {
-       "id": 1055,
+       "id": 1054,
        "label": "Veilleur·se"
       },
       {
-       "id": 1056,
+       "id": 1055,
        "label": "Facilitateur·rice"
       },
       {
-       "id": 1057,
+       "id": 1056,
        "label": "Coéquipier·ère fidèle"
       },
       {
-       "id": 1058,
+       "id": 1057,
        "label": "Ami·e fidèle"
       },
       {
-       "id": 1059,
+       "id": 1058,
        "label": "Confident·e"
       },
       {
-       "id": 1060,
+       "id": 1059,
        "label": "Conseiller·ère"
       },
       {
-       "id": 1061,
+       "id": 1060,
        "label": "Soutien précieux"
       }
      ]

@@ -57,7 +57,7 @@ export function isoDate(date: Date): string {
 
 export function pdfFileName(name: string, date: Date): string {
   const slug = slugify(name)
-  return ['mon-catalogue-des-possibles', slug, isoDate(date)].filter(Boolean).join('-') + '.pdf'
+  return ['mon-catalogue-des-possibilites', slug, isoDate(date)].filter(Boolean).join('-') + '.pdf'
 }
 
 /** Rassemble ce qui sera imprimé : seulement les choix de la personne, dans l'ordre du catalogue. */

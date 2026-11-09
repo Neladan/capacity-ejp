@@ -59,7 +59,7 @@ const style = computed(() => (props.family ? familyVars(props.family) : undefine
       <div class="bar-text">
         <p class="bar-family">
           <template v-if="family">{{ family.number }}. {{ family.title }}</template>
-          <template v-else>Mon catalogue des possibles</template>
+          <template v-else>Mon catalogue des possibilités</template>
         </p>
         <p class="bar-theme">{{ themeTitle && family ? themeTitle : heading ?? family?.title }}</p>
       </div>

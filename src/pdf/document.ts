@@ -36,10 +36,10 @@ export function buildDocDefinition(data: PdfData, assets: PdfAssets): TDocumentD
     pageOrientation: 'portrait',
     pageMargins: [MARGIN_X, 56, MARGIN_X, 64],
     info: {
-      title: `Mon catalogue des possibles${name ? ` · ${name}` : ''}`,
+      title: `Mon catalogue des possibilités${name ? ` · ${name}` : ''}`,
       author: name || 'EJP Cotonou',
       subject: 'Bilan personnel · EJP Cotonou',
-      creator: 'Mon catalogue des possibles · EJP Cotonou',
+      creator: 'Mon catalogue des possibilités · EJP Cotonou',
     },
     language: 'fr-FR',
     defaultStyle: { font: 'Poppins', fontSize: 10, color: C.text, lineHeight: 1.3 },
@@ -61,7 +61,7 @@ export function buildDocDefinition(data: PdfData, assets: PdfAssets): TDocumentD
           }
         : {
             columns: [
-              { text: [{ text: 'EJP Cotonou', font: 'PoppinsSemi', color: C.ejp }, { text: '  ·  Mon catalogue des possibles', color: C.muted }], fontSize: 8 },
+              { text: [{ text: 'EJP Cotonou', font: 'PoppinsSemi', color: C.ejp }, { text: '  ·  Mon catalogue des possibilités', color: C.muted }], fontSize: 8 },
               { text: `${page} / ${pages}`, alignment: 'right', color: C.muted, fontSize: 8 },
             ],
             margin: [MARGIN_X, 24, MARGIN_X, 0],

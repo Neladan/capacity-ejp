@@ -40,7 +40,7 @@ describe('store des réponses', () => {
     s.setLevel(1, 'acquis')
     s.setLevel(2, 'ameliorer')
     s.setLevel(3, 'essayer')
-    s.setLevel(1061, 'acquis')
+    s.setLevel(1060, 'acquis')
     expect(s.counts.value).toEqual({ acquis: 2, ameliorer: 1, essayer: 1, total: 4 })
     expect(s.countTheme(firstTheme)).toEqual({ acquis: 1, ameliorer: 1, essayer: 1, total: 3 })
     expect(s.countFamily(catalogue.families[3]).total).toBe(1)

@@ -1,6 +1,6 @@
 import { LEVEL_IDS, itemIndex, themeIndex, type LevelId } from '../data/catalogue'
 
-export const STORAGE_KEY = 'ejp-catalogue-des-possibles'
+export const STORAGE_KEY = 'ejp-catalogue-des-possibilites'
 export const CURRENT_VERSION = 1
 export const MAX_STRENGTHS = 10
 export const BILAN_FIELDS = 4

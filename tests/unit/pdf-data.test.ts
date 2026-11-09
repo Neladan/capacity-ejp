@@ -13,14 +13,14 @@ function stateWith(answers: Record<number, 'acquis' | 'ameliorer' | 'essayer'>) 
 
 describe('données du PDF', () => {
   it('nomme le fichier proprement', () => {
-    expect(pdfFileName('Ama-Grâce Dossou', date)).toBe('mon-catalogue-des-possibles-ama-grace-dossou-2026-11-08.pdf')
-    expect(pdfFileName('', date)).toBe('mon-catalogue-des-possibles-2026-11-08.pdf')
-    expect(pdfFileName('  Œlie !', date)).toBe('mon-catalogue-des-possibles-oelie-2026-11-08.pdf')
+    expect(pdfFileName('Ama-Grâce Dossou', date)).toBe('mon-catalogue-des-possibilites-ama-grace-dossou-2026-11-08.pdf')
+    expect(pdfFileName('', date)).toBe('mon-catalogue-des-possibilites-2026-11-08.pdf')
+    expect(pdfFileName('  Œlie !', date)).toBe('mon-catalogue-des-possibilites-oelie-2026-11-08.pdf')
     expect(slugify('Éléonore')).toBe('eleonore')
   })
 
   it('n’imprime que les choix, regroupés par famille, thème et niveau', () => {
-    const data = buildPdfData(stateWith({ 1: 'acquis', 3: 'essayer', 2: 'acquis', 1061: 'ameliorer' }), date)
+    const data = buildPdfData(stateWith({ 1: 'acquis', 3: 'essayer', 2: 'acquis', 1060: 'ameliorer' }), date)
     expect(data.counts).toEqual({ acquis: 2, ameliorer: 1, essayer: 1, total: 4 })
     expect(data.families.map((f) => f.family.number)).toEqual([1, 4])
     const theme = data.families[0].themes[0]
