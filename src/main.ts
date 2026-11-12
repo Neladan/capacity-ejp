@@ -7,5 +7,7 @@ import './styles/tokens.css'
 import './styles/base.css'
 import App from './App.vue'
 import { router } from './router'
+import { setupAppUpdates } from './lib/app-update'
 
 createApp(App).use(router).mount('#app')
+setupAppUpdates()

@@ -8,10 +8,11 @@ import { easeOut } from '../lib/motion'
 import { tick } from '../lib/haptics'
 import JourneyLayout from '../components/JourneyLayout.vue'
 import type { PdfData } from '../pdf/data'
+import { isStaleChunkError, reloadOnceForUpdate, updateThenReload } from '../lib/app-update'
 
 const store = useAnswers()
 const name = ref(store.state.name)
-const status = ref<'idle' | 'working' | 'ready' | 'error'>('idle')
+const status = ref<'idle' | 'working' | 'ready' | 'error' | 'outdated'>('idle')
 const canvas = ref<HTMLCanvasElement>()
 const frame = ref<HTMLElement>()
 const pages = ref(0)
@@ -34,7 +35,13 @@ async function generate() {
     if (id === run) status.value = 'ready'
   } catch (e) {
     console.error(e)
-    if (id === run) status.value = 'error'
+    if (id !== run) return
+    if (isStaleChunkError(e)) {
+      // Ancienne version en cache : on recharge une fois, sinon on propose de le faire.
+      if (!reloadOnceForUpdate()) status.value = 'outdated'
+      return
+    }
+    status.value = 'error'
   }
 }
 
@@ -111,8 +118,12 @@ onBeforeUnmount(() => {
               <PhDownloadSimple :size="18" weight="bold" aria-hidden="true" />
               Télécharger le PDF
             </button>
+            <p v-if="status === 'outdated'" class="error" role="alert">
+              {{ fr('Une nouvelle version de l’app est disponible. Recharge la page pour créer ton PDF : tes réponses sont conservées.') }}
+              <button type="button" class="btn btn-quiet" @click="updateThenReload"><PhArrowClockwise :size="16" aria-hidden="true" /> Recharger la page</button>
+            </p>
             <p v-if="status === 'error'" class="error" role="alert">
-              {{ fr('La création du PDF a échoué. Vérifie ta connexion lors de la première utilisation, puis réessaie.') }}
+              {{ fr('La création du PDF a échoué. Si c’est ta première utilisation hors connexion, connecte-toi puis réessaie.') }}
               <button type="button" class="btn btn-quiet" @click="generate"><PhArrowClockwise :size="16" aria-hidden="true" /> Réessayer</button>
             </p>
           </div>
